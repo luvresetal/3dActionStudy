@@ -1,0 +1,1489 @@
+﻿Log file open, 05/03/21 00:38:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286273
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername="Akiko Naito" -epicuserid=01126d4807284bce9895909cd165b3c3 -epiclocale=ja
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.02-15.38.01:117][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.02-15.38.01:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:124][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.02-15.38.01:124][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.02-15.38.01:125][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.02-15.38.01:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.02-15.38.01:125][  0]LogHAL: Display: Platform has ~ 16 GB [17009004544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.02-15.38.01:125][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.02-15.38.01:125][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/practice/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.02-15.38.01:126][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.02-15.38.01:127][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.02-15.38.01:127][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.02-15.38.01:127][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.02-15.38.01:127][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/practice/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.05.02-15.38.01:127][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/practice/MyProject/Saved/Config/Windows/Editor.ini]
+[2021.05.02-15.38.01:127][  0]LogInit: Computer: MYCOMPUTER
+[2021.05.02-15.38.01:127][  0]LogInit: User: AkikoNaito
+[2021.05.02-15.38.01:127][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.05.02-15.38.01:127][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.02-15.38.01:127][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.05.02-15.38.01:127][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.02-15.38.01:127][  0]LogMemory: Process Physical Memory: 140.06 MB used, 140.06 MB peak
+[2021.05.02-15.38.01:127][  0]LogMemory: Process Virtual Memory: 111.96 MB used, 111.96 MB peak
+[2021.05.02-15.38.01:127][  0]LogMemory: Physical Memory: 7905.03 MB used,  8316.02 MB free, 16221.05 MB total
+[2021.05.02-15.38.01:127][  0]LogMemory: Virtual Memory: 134210816.00 MB used,  6909.71 MB free, 134217728.00 MB total
+[2021.05.02-15.38.01:132][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.02-15.38.01:173][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.02-15.38.01:174][  0]LogInit: Using OS detected language (ja-JP).
+[2021.05.02-15.38.01:174][  0]LogInit: Using OS detected locale (ja-JP).
+[2021.05.02-15.38.01:175][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2021.05.02-15.38.01:265][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.02-15.38.01:276][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.02-15.38.01:287][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.02-15.38.01:287][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.02-15.38.01:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.02-15.38.01:452][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.02-15.38.01:452][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.02-15.38.01:452][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.02-15.38.01:552][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.05.02-15.38.01:552][  0]LogD3D11RHI:       8031/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.02-15.38.02:583][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.05.02-15.38.02:583][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.05.02-15.38.02:585][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.02-15.38.02:585][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.02-15.38.02:585][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.02-15.38.02:590][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.02-15.38.02:590][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.02-15.38.02:590][  0]LogWindows: EnumDisplayDevices:
+[2021.05.02-15.38.02:591][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.05.02-15.38.02:591][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.02-15.38.02:591][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.05.02-15.38.02:591][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.02-15.38.02:592][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.02-15.38.02:592][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.02-15.38.02:592][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.05.02-15.38.02:592][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.05.02-15.38.02:592][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.05.02-15.38.02:592][  0]LogD3D11RHI:   Driver Version: 457.74 (internal:27.21.14.5774, unified:457.74)
+[2021.05.02-15.38.02:592][  0]LogD3D11RHI:      Driver Date: 1-8-2021
+[2021.05.02-15.38.02:592][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.05.02-15.38.02:662][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.02-15.38.02:662][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.02-15.38.02:662][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.02-15.38.02:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.02-15.38.02:679][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.02-15.38.02:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.02-15.38.03:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.02-15.38.03:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.02-15.38.03:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.02-15.38.03:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.02-15.38.03:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.02-15.38.03:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.02-15.38.03:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.02-15.38.03:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.02-15.38.03:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.02-15.38.03:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.02-15.38.03:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.02-15.38.03:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.02-15.38.03:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.02-15.38.03:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.02-15.38.03:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.02-15.38.03:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.02-15.38.03:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.02-15.38.03:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.02-15.38.03:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.02-15.38.03:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.02-15.38.03:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.02-15.38.03:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.02-15.38.03:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.02-15.38.03:192][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.02-15.38.03:244][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.02-15.38.03:244][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (../../../../practice/MyProject/Intermediate/Shaders/WorkingDirectory/10584/).
+[2021.05.02-15.38.03:244][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Akiko Naito/AppData/Local/Temp/UnrealShaderWorkingDir/FA784B8346B98E4ADA9A1CBC1BFCF710/'.
+[2021.05.02-15.38.03:244][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.02-15.38.03:244][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.02-15.38.03:949][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Akiko Naito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Akiko Naito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../practice/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../practice/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.02-15.38.04:010][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.02-15.38.04:021][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.02-15.38.04:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.02-15.38.04:021][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.02-15.38.04:028][  0]LogDerivedDataCache: Speed tests for C:/Users/Akiko Naito/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.05.02-15.38.04:029][  0]LogDerivedDataCache: Display: Performance to C:/Users/Akiko Naito/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1161.53MBs, RandomWriteSpeed=160.86MBs. Assigned SpeedClass 'Local'
+[2021.05.02-15.38.04:029][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Akiko Naito/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.02-15.38.04:029][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.02-15.38.04:030][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.02-15.38.04:075][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.02-15.38.04:076][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.02-15.38.04:102][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.05.02-15.38.04:303][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.02-15.38.04:303][  0]LogInit: Active device profile: [00000232FB042000][00000232FA151C00 49] Windows
+[2021.05.02-15.38.04:303][  0]LogInit: Profiles: [00000232FB042000][00000232FA151C00 49] Windows, [00000232FAFDF200][00000232FA1580C0 49] WindowsNoEditor, [00000232FB040900][00000232FA15C240 49] WindowsServer, [00000232FAFDD300][00000232FB1703C0 49] WindowsClient, [00000232FB042C00][00000232FB174540 49] IOS, [00000232FAFDF000][00000232FB1786C0 49] iPadAir, [00000232FB041000][00000232FB17C840 49] iPadAir2, [00000232FAF8F300][00000232FB184B00 49] IPadPro, [00000232FAF8F400][00000232FB180B40 49] iPadAir3, [00000232FB042800][00000232FB188CC0 49] iPadAir4, [00000232FAF8EC00][00000232FB18CE40 49] iPadMini2, [00000232FB040E00][00000232FB190FC0 49] iPadMini3, [00000232FAF8DD00][00000232FB195140 49] iPadMini4, [00000232FB042D00][00000232FB1992C0 49] iPadMini5, [00000232FAFBEC00][00000232FB1AD580 49] iPhone6, [00000232FAFBED00][00000232FB19D5C0 49] iPodTouch6, [00000232FAFDD100][00000232FB1B1800 49] iPhone7, [00000232FAFDEF00][00000232FA155840 49] iPodTouch7, [00000232FAFBE600][00000232FB1B5980 49] iPhone5S, [00000232FAFDCB00][00000232FB1FBAC0 49] iPhone6Plus, [00000232FAFBCE00][00000232FB203C40 49] iPhone6S, [00000232FAFDD900][00000232FB206100 49] iPhone6SPlus, [00000232FAFBFE00][00000232FB20A280 49] iPhone7Plus, [00000232FAFDE200][00000232FB20E400 49] iPhoneSE, [00000232FAFBE700][00000232FB254580 49] iPhone8, [00000232FAFDFC00][00000232FB258700 49] iPhone8Plus, [00000232FAFBE400][00000232FB25C880 49] iPhoneX, [00000232FAFDC900][00000232FB260A00 49] iPhoneXS, [00000232FAFBC700][00000232FB4E0B80 49] iPhoneXSMax, [00000232FAFDC500][00000232FB4E4D00 49] iPhoneXR, [00000232FAFBF000][00000232FB4E8E80 49] iPhone11, [00000232FAFDD200][00000232FB4ED000 49] iPhone11Pro, [00000232FAFBE300][00000232FB4F1180 49] iPhone11ProMax, [00000232FAFDC800][00000232FB4F5300 49] iPhoneSE2, [00000232FAFBD900][00000232FB4F9480 49] iPhone12Mini, [00000232FAFDD700][00000232FB4FD600 49] iPhone12, [00000232FAFBC400][00000232FB1FF740 49] iPhone12Pro, [00000232FAFDDC00][00000232FB501880 49] iPhone12ProMax, [00000232FAFBE900][00000232FB5059C0 49] iPadPro105, [00000232FAFDCC00][00000232FB509B00 49] iPadPro129, [00000232FAFBD700][00000232FB511C80 49] iPadPro97, [00000232FAFDD000][00000232FB514140 49] iPadPro2_129, [00000232FAFBD000][00000232FB5182C0 49] iPad5, [00000232FAFDCF00][00000232FB51C440 49] iPad6, [00000232FB042900][00000232FB5205C0 49] iPad7, [00000232FAFBD100][00000232FB524740 49] iPad8, [00000232FAFDDA00][00000232FB5288C0 49] iPadPro11, [00000232FAFBCF00][00000232FB52CA40 49] iPadPro2_11, [00000232FAFDE000][00000232FB530BC0 49] iPadPro3_129, [00000232FAFBD500][00000232FB534D40 49] iPadPro4_129, [00000232FAFDE800][00000232FB538EC0 49] AppleTV, [00000232FAFBFD00][00000232FB53D040 49] AppleTV4K, [00000232FAFDD800][00000232FB5411C0 49] TVOS, [00000232FAFBE100][00000232FB545340 49] Mac, [00000232FAFDDE00][00000232FB5494C0 49] MacClient, [00000232FAFBCA00][00000232FB54D640 49] MacNoEditor, [00000232FAFDFF00][00000232FB5517C0 49] MacServer, [00000232FAFBE000][00000232FB50D900 49] Linux, [00000232FAFDC700][00000232FB555A40 49] LinuxAArch64, [00000232FAFBC900][00000232FB559B80 49] LinuxNoEditor, [00000232FAFDFD00][00000232FB561D00 49] LinuxAArch64NoEditor, [00000232FAFBDC00][00000232FB5641C0 49] LinuxClient, [00000232FAFDC100][00000232FB568340 49] LinuxAArch64Client, [00000232FAFBF900][00000232FB56C4C0 49] LinuxServer, [00000232FAFDD500][00000232FBDCA640 49] LinuxAArch64Server, [00000232FAFBF300][00000232FBDEC7C0 49] Android, [00000232FAFDF300][00000232FBEE8940 49] Android_Low, [00000232FAFBFA00][00000232FBEECAC0 49] Android_Mid, [00000232FAFDD400][00000232FBEF0C40 49] Android_High, [00000232FAFBF400][00000232FBEF4DC0 49] Android_Default, [00000232FAFDEA00][00000232FBEF8F40 49] Android_Adreno4xx, [00000232FAFBC200][00000232FBEFD0C0 49] Android_Adreno5xx_Low, [00000232FAFDE300][00000232FBF01240 49] Android_Adreno5xx, [00000232FAFBEB00][00000232FBF053C0 49] Android_Adreno6xx, [00000232FAFDE700][00000232FBF09540 49] Android_Adreno6xx_Vulkan, [00000232FAFBDD00][00000232FBF0D6C0 49] Android_Mali_T6xx, [00000232FAFDEE00][00000232FBF11840 49] Android_Mali_T7xx, [00000232FAFBEF00][00000232FB55D980 49] Android_Mali_T8xx, [00000232FAFDFE00][00000232FBF15AC0 49] Android_Mali_G71, [00000232FAFBC300][00000232FBF19C00 49] Android_Mali_G72, [00000232FAFDDD00][00000232FBF200C0 49] Android_Mali_G72_Vulkan, [00000232FAFBF500][00000232FBF24240 49] Android_Mali_G76, [00000232FAFDCE00][00000232FBF283C0 49] Android_Mali_G76_Vulkan, [00000232FAFBC600][00000232FBF2C540 49] Android_Mali_G77, [00000232FAFDE500][00000232FBF306C0 49] Android_Mali_G77_Vulkan, [00000232FAFBF200][00000232FBF34840 49] Android_Vulkan_SM5, [00000232FAFDEC00][00000232FBF389C0 49] Android_PowerVR_G6xxx, [00000232FAFBDF00][00000232FBF3CB40 49] Android_PowerVR_GT7xxx, [00000232FAFDE600][00000232FBF40CC0 49] Android_PowerVR_GE8xxx, [00000232FAF8F500][00000232FBF44E40 49] Android_PowerVR_GM9xxx, [00000232FB043200][00000232FBF48FC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000232FAF8D400][00000232FBF4D140 49] Android_TegraK1, [00000232FB041600][00000232FBF512C0 49] Android_Unknown_Vulkan, [00000232FAF8DE00][00000232FBF55440 49] Lumin, [00000232FB043700][00000232FBF595C0 49] Lumin_Desktop, [00000232FAF8D200][00000232FBF5D740 49] HoloLens, 
+[2021.05.02-15.38.04:401][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.02-15.38.04:401][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.02-15.38.04:401][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.02-15.38.04:401][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.02-15.38.04:401][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.02-15.38.04:414][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2021.05.02-15.38.04:845][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.02-15.38.04:907][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.061121 seconds
+[2021.05.02-15.38.04:912][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.02-15.38.04:912][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.02-15.38.04:912][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.02-15.38.05:263][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.02-15.38.05:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.02-15.38.05:833][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.05:833][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.05:836][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.05:844][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.05:850][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.05:855][  0]LogUProjectInfo: Found projects:
+[2021.05.02-15.38.06:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.02-15.38.06:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.02-15.38.06:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.02-15.38.06:115][  0]LogCollectionManager: Loaded 0 collections in 0.000577 seconds
+[2021.05.02-15.38.06:133][  0]LogFileCache: Scanning file cache for directory 'D:/practice/MyProject/Saved/Collections/' took 0.00s
+[2021.05.02-15.38.06:133][  0]LogFileCache: Scanning file cache for directory 'D:/practice/MyProject/Content/Developers/AkikoNaito/Collections/' took 0.00s
+[2021.05.02-15.38.06:133][  0]LogFileCache: Scanning file cache for directory 'D:/practice/MyProject/Content/Collections/' took 0.00s
+[2021.05.02-15.38.06:133][  0]LogOcInput: OculusInput pre-init called
+[2021.05.02-15.38.06:143][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.02-15.38.06:143][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.02-15.38.06:185][  0]LogEngine: Initializing Engine...
+[2021.05.02-15.38.06:210][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.02-15.38.06:210][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.02-15.38.06:211][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.02-15.38.06:322][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.02-15.38.06:331][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.02-15.38.06:348][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.02-15.38.06:352][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.02-15.38.06:352][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.02-15.38.06:352][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-15.38.06:352][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-15.38.06:352][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-15.38.06:353][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-15.38.06:353][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-15.38.06:353][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-15.38.06:353][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-15.38.06:353][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-15.38.06:353][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-15.38.06:353][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-15.38.06:365][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-15.38.06:365][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-15.38.06:401][  0]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.02-15.38.06:407][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-15.38.06:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-15.38.06:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-15.38.06:409][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-15.38.06:409][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-15.38.06:409][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-15.38.06:410][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-15.38.06:410][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-15.38.06:410][  0]LogInit: FAudioDevice initialized.
+[2021.05.02-15.38.06:410][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.02-15.38.06:410][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.02-15.38.06:465][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/Akiko Naito/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.02-15.38.06:466][  0]LogInit: Texture streaming: Enabled
+[2021.05.02-15.38.06:477][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.02-15.38.06:480][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.02-15.38.06:480][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.02-15.38.06:482][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.02-15.38.06:502][  0]LogInit: Transaction tracking system initialized
+[2021.05.02-15.38.06:521][  0]BlueprintLog: New page: エディタの読み込み
+[2021.05.02-15.38.06:582][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2021.05.02-15.38.06:606][  0]TimingProfiler: Initialize
+[2021.05.02-15.38.06:606][  0]TimingProfiler: OnSessionChanged
+[2021.05.02-15.38.06:606][  0]LoadingProfiler: Initialize
+[2021.05.02-15.38.06:606][  0]LoadingProfiler: OnSessionChanged
+[2021.05.02-15.38.06:606][  0]NetworkingProfiler: Initialize
+[2021.05.02-15.38.06:606][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.02-15.38.06:606][  0]MemoryProfiler: Initialize
+[2021.05.02-15.38.06:606][  0]MemoryProfiler: OnSessionChanged
+[2021.05.02-15.38.06:845][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.02-15.38.06:845][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.02-15.38.06:993][  0]LogFileCache: Scanning file cache for directory 'D:/practice/MyProject/Content/' took 0.01s
+[2021.05.02-15.38.07:211][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.02-15.38.07:214][  0]SourceControl: ソースコントロールは無効です
+[2021.05.02-15.38.07:214][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.237
+[2021.05.02-15.38.07:215][  0]Cmd: MAP LOAD FILE="../../../../practice/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.02-15.38.07:215][  0]LightingResults: New page: ライティングのビルド
+[2021.05.02-15.38.07:215][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-15.38.07:215][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-15.38.07:215][  0]MapCheck: New page: マップをチェック
+[2021.05.02-15.38.07:215][  0]LightingResults: New page: <何も選択されていません>
+[2021.05.02-15.38.07:265][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.02-15.38.08:449][  0]LogLinker: Warning: [AssetLog] D:\practice\MyProject\Content\Cube_DM.uasset:  '/Game/Cube' のロードに失敗しました: ファイルが見つかりません
+[2021.05.02-15.38.08:449][  0]LogLinker: Warning: [AssetLog] D:\practice\MyProject\Content\Cube_DM.uasset:  '/Game/Cube' のロードに失敗しました: ファイルが見つかりません
+[2021.05.02-15.38.08:450][  0]LogLinker: Warning: [AssetLog] D:\practice\MyProject\Content\Cube_DM.uasset:  '/Game/Cube' のロードに失敗しました: ファイルが見つかりません
+[2021.05.02-15.38.08:830][  0]LogLinker: Warning: [AssetLog] D:\practice\MyProject\Content\Cube_DM.uasset:  '/Game/Cube' のロードに失敗しました: ファイルが見つかりません
+[2021.05.02-15.38.08:830][  0]LoadErrors: ロードに失敗しました /Game/Cube.Cube 参照元 Cube_DM
+[2021.05.02-15.38.09:764][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-15.38.09:765][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-15.38.09:988][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.02-15.38.10:047][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.02-15.38.10:047][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.02-15.38.10:047][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.083ミリ秒かかりました。
+[2021.05.02-15.38.10:047][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.833
+[2021.05.02-15.38.10:048][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.071
+[2021.05.02-15.38.10:115][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2021.05.02-15.38.10:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-15.38.10:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-15.38.10:854][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-15.38.10:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-15.38.11:096][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3610 classes and 864 folders.
+[2021.05.02-15.38.11:161][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.02-15.38.11:318][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.02-15.38.11:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.02-15.38.11:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.05.02-15.38.11:334][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.02-15.38.11:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.02-15.38.11:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.02-15.38.11:354][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.02-15.38.11:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.02-15.38.11:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.02-15.38.11:365][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.02-15.38.11:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.02-15.38.11:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.05.02-15.38.11:389][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.02-15.38.11:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.02-15.38.11:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.02-15.38.11:399][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.02-15.38.11:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.02-15.38.11:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.02-15.38.11:409][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.02-15.38.11:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.02-15.38.11:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.02-15.38.11:433][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.02-15.38.11:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.02-15.38.11:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.02-15.38.11:445][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.02-15.38.11:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.02-15.38.11:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.05.02-15.38.11:455][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.02-15.38.11:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.02-15.38.11:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.02-15.38.11:462][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.02-15.38.11:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.02-15.38.11:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.05.02-15.38.11:515][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.02-15.38.11:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.02-15.38.11:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.05.02-15.38.11:537][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.02-15.38.11:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.02-15.38.11:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.02-15.38.11:549][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.02-15.38.11:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.02-15.38.11:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.05.02-15.38.11:558][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.02-15.38.11:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.02-15.38.11:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.05.02-15.38.11:580][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.02-15.38.11:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.02-15.38.11:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.05.02-15.38.11:587][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.02-15.38.11:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.02-15.38.11:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.05.02-15.38.11:594][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.02-15.38.11:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.02-15.38.11:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2021.05.02-15.38.11:600][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.02-15.38.11:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.02-15.38.11:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.05.02-15.38.11:624][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.02-15.38.11:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.02-15.38.11:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.05.02-15.38.11:642][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.02-15.38.11:642][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:642][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.02-15.38.11:642][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.05.02-15.38.11:651][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.02-15.38.11:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.02-15.38.11:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.05.02-15.38.11:681][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.02-15.38.11:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.02-15.38.11:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.05.02-15.38.11:690][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.02-15.38.11:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.02-15.38.11:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.05.02-15.38.11:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.02-15.38.11:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.02-15.38.11:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.05.02-15.38.11:713][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.02-15.38.11:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.02-15.38.11:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.02-15.38.11:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.05.02-15.38.12:537][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.02-15.38.12:562][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.02-15.38.12:974][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.02-15.38.12:976][  0]LogSlate: Took 0.000814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2021.05.02-15.38.12:978][  0]LogSlate: Took 0.000848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2021.05.02-15.38.12:978][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.02-15.38.13:010][  0]LogSlate: Took 0.019662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.02-15.38.13:356][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.05.02-15.38.13:738][  0]LogSlate: Took 0.020030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.02-15.38.13:780][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.02-15.38.13:780][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.05.02-15.38.13:780][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.05.02-15.38.13:780][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.05.02-15.38.13:780][  0]LogLoad: (Engine Initialization) Total time: 13.80 seconds
+[2021.05.02-15.38.13:780][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.02-15.38.13:780][  0]LogInit: First time updating LLM stats...
+[2021.05.02-15.38.13:899][  0]LogAssetRegistry: Asset discovery search completed in 9.7984 seconds
+[2021.05.02-15.38.13:900][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.02-15.38.13:981][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.02-15.38.14:055][  0]LogSlate: Took 0.026798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.02-15.38.14:055][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.05.02-15.38.14:087][  0]LogSlate: Took 0.032030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2021.05.02-15.38.14:109][  0]LogSlate: Took 0.021926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2021.05.02-15.38.14:809][ 35]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.02-15.50.16:292][480]LogSlate: Window 'メッセージ ログ' being destroyed
+[2021.05.02-15.50.16:298][480]LogSlate: Window 'メッセージ ログ' being destroyed
+[2021.05.02-15.50.37:235][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.02-15.50.45:958][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.02-15.50.47:116][211]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.05.02-15.50.48:570][211]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.02-15.50.49:112][212]LogSlate: Took 0.020600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.02-15.50.51:625][346]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.05.02-15.50.51:639][346]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-15.50.51:640][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-15.51.00:112][840]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.02-15.51.02:771][977]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.05.02-15.51.02:781][977]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-15.51.02:781][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-15.51.17:606][863]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter -> EnemyCharacter
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.EnemyCharacter_C' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:903][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:BndEvt__sword_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:904][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:UserConstructionScript' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:904][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.SKEL_EnemyCharacter_C:Change State' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:904][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.EnemyCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:904][863]LogMetaData: Removing '/Game/Asset/EnemyCharacter.EnemyCharacter_C:Change State' ref from Metadata '/Game/Asset/ThirdPersonCharacter.PackageMetaData'
+[2021.05.02-15.51.17:984][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset" SILENT=true
+[2021.05.02-15.51.18:160][863]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter62B89EE947B68FBEC5BD4AB5D479BC31.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset'
+[2021.05.02-15.51.18:232][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.02-15.51.18:256][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.02-15.51.18:269][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.02-15.51.18:299][863]AssetCheck: New page: アセット保存:EnemyCharacter
+[2021.05.02-15.51.18:299][863]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter を検証しています
+[2021.05.02-15.51.19:720][948]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter
+[2021.05.02-15.51.24:715][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.02-15.51.25:025][223]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Cube_DM.Cube_DM
+[2021.05.02-15.51.25:133][223]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Asset/sword_mesh.sword_mesh
+[2021.05.02-15.51.26:330][223]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Asset/M_Enemy_Body.M_Enemy_Body
+[2021.05.02-15.51.26:361][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body, compiling. 
+[2021.05.02-15.51.26:655][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body, compiling. 
+[2021.05.02-15.51.26:682][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body, compiling. 
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 56
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 53
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.05.02-15.51.26:711][223]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2021.05.02-15.51.26:712][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSetMaterialAttributes_0, compiling. 
+[2021.05.02-15.51.26:716][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.05.02-15.51.26:719][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.05.02-15.51.26:722][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.05.02-15.51.26:724][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.02-15.51.26:727][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.05.02-15.51.26:749][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body, compiling. 
+[2021.05.02-15.51.26:804][223]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Asset/M_Enemy_ChestLogo.M_Enemy_ChestLogo
+[2021.05.02-15.51.27:103][223]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Asset/M_Enemy_Body_2.M_Enemy_Body_2
+[2021.05.02-15.51.27:105][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body_2, compiling. 
+[2021.05.02-15.51.27:178][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body_2, compiling. 
+[2021.05.02-15.51.27:204][223]LogMaterial: Display: Missing cached shader map for material M_Enemy_Body_2, compiling. 
+[2021.05.02-15.51.27:235][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.05.02-15.51.27:238][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.05.02-15.51.27:241][223]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.05.02-15.51.27:271][223]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Asset/M_Enemy_ChestLogo_2.M_Enemy_ChestLogo_2
+[2021.05.02-15.51.27:860][223]LogRenderer: Reallocating scene render targets to support 1060x684 Format 10 NumSamples 1 (Frame:1).
+[2021.05.02-15.51.28:379][244]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 214
+[2021.05.02-15.51.28:379][244]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 213
+[2021.05.02-15.51.28:458][248]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 212
+[2021.05.02-15.51.28:458][248]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 211
+[2021.05.02-15.51.28:509][250]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 210
+[2021.05.02-15.51.28:509][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 209
+[2021.05.02-15.51.28:595][254]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 208
+[2021.05.02-15.51.28:673][256]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 207
+[2021.05.02-15.51.28:718][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 206
+[2021.05.02-15.51.28:778][259]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 205
+[2021.05.02-15.51.28:841][261]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 204
+[2021.05.02-15.51.28:983][267]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 203
+[2021.05.02-15.51.29:000][268]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 202
+[2021.05.02-15.51.29:024][269]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 201
+[2021.05.02-15.51.29:112][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 200
+[2021.05.02-15.51.29:181][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 199
+[2021.05.02-15.51.29:275][283]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 198
+[2021.05.02-15.51.29:310][285]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 197
+[2021.05.02-15.51.29:327][286]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 196
+[2021.05.02-15.51.29:394][290]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 195
+[2021.05.02-15.51.29:564][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 194
+[2021.05.02-15.51.29:582][300]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 193
+[2021.05.02-15.51.29:600][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 192
+[2021.05.02-15.51.29:680][306]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 191
+[2021.05.02-15.51.30:011][324]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 190
+[2021.05.02-15.51.30:012][324]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 189
+[2021.05.02-15.51.30:100][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 188
+[2021.05.02-15.51.30:225][336]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 187
+[2021.05.02-15.51.30:260][338]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 186
+[2021.05.02-15.51.30:310][341]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 185
+[2021.05.02-15.51.30:326][342]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 184
+[2021.05.02-15.51.30:412][347]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 183
+[2021.05.02-15.51.30:480][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 182
+[2021.05.02-15.51.30:518][353]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 181
+[2021.05.02-15.51.30:553][355]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 180
+[2021.05.02-15.51.30:603][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 179
+[2021.05.02-15.51.30:636][360]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 178
+[2021.05.02-15.51.30:807][369]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 177
+[2021.05.02-15.51.30:969][377]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 176
+[2021.05.02-15.51.30:989][378]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 175
+[2021.05.02-15.51.31:116][385]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 174
+[2021.05.02-15.51.31:132][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 173
+[2021.05.02-15.51.31:200][390]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 172
+[2021.05.02-15.51.31:289][395]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 171
+[2021.05.02-15.51.31:380][400]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 170
+[2021.05.02-15.51.31:532][408]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 169
+[2021.05.02-15.51.31:532][408]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 168
+[2021.05.02-15.51.31:590][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 167
+[2021.05.02-15.51.31:643][414]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 166
+[2021.05.02-15.51.31:864][425]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 165
+[2021.05.02-15.51.31:947][430]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 164
+[2021.05.02-15.51.31:947][430]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 163
+[2021.05.02-15.51.32:016][434]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 162
+[2021.05.02-15.51.32:314][450]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 161
+[2021.05.02-15.51.32:391][454]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 160
+[2021.05.02-15.51.32:542][462]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 159
+[2021.05.02-15.51.32:615][466]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 158
+[2021.05.02-15.51.32:688][470]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 157
+[2021.05.02-15.51.32:706][471]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 156
+[2021.05.02-15.51.32:739][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 155
+[2021.05.02-15.51.32:779][474]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 154
+[2021.05.02-15.51.32:874][477]MaterialEditorStats: Base pass shader: 125 instructions
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.05.02-15.51.32:875][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.02-15.51.32:902][478]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 153
+[2021.05.02-15.51.32:970][481]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 152
+[2021.05.02-15.51.33:317][498]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 151
+[2021.05.02-15.51.33:337][499]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 150
+[2021.05.02-15.51.33:355][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 149
+[2021.05.02-15.51.33:391][502]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 148
+[2021.05.02-15.51.33:477][507]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 147
+[2021.05.02-15.51.33:513][509]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 146
+[2021.05.02-15.51.33:548][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 145
+[2021.05.02-15.51.33:596][513]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 144
+[2021.05.02-15.51.34:020][534]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 143
+[2021.05.02-15.51.34:058][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 142
+[2021.05.02-15.51.34:113][539]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 141
+[2021.05.02-15.51.34:147][541]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 140
+[2021.05.02-15.51.34:217][545]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 139
+[2021.05.02-15.51.34:251][547]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 138
+[2021.05.02-15.51.34:270][548]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 137
+[2021.05.02-15.51.34:270][548]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 136
+[2021.05.02-15.51.34:608][565]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 135
+[2021.05.02-15.51.34:660][568]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 134
+[2021.05.02-15.51.34:694][570]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 133
+[2021.05.02-15.51.34:759][574]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 132
+[2021.05.02-15.51.34:778][575]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 131
+[2021.05.02-15.51.34:778][575]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 130
+[2021.05.02-15.51.34:811][577]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 129
+[2021.05.02-15.51.34:940][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 128
+[2021.05.02-15.51.34:961][585]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 127
+[2021.05.02-15.51.35:029][589]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 126
+[2021.05.02-15.51.35:082][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 125
+[2021.05.02-15.51.35:099][593]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 124
+[2021.05.02-15.51.35:237][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 123
+[2021.05.02-15.51.35:296][604]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 122
+[2021.05.02-15.51.35:387][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 121
+[2021.05.02-15.51.35:387][609]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 120
+[2021.05.02-15.51.35:423][611]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 119
+[2021.05.02-15.51.35:475][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 118
+[2021.05.02-15.51.35:508][616]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 117
+[2021.05.02-15.51.35:673][625]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 116
+[2021.05.02-15.51.35:674][625]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 115
+[2021.05.02-15.51.35:693][626]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 114
+[2021.05.02-15.51.35:781][631]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 113
+[2021.05.02-15.51.35:908][638]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 112
+[2021.05.02-15.51.35:946][640]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 111
+[2021.05.02-15.51.35:965][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 110
+[2021.05.02-15.51.36:046][646]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 109
+[2021.05.02-15.51.36:323][661]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 108
+[2021.05.02-15.51.36:464][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 107
+[2021.05.02-15.51.36:464][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 106
+[2021.05.02-15.51.36:564][675]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 105
+[2021.05.02-15.51.36:582][676]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 104
+[2021.05.02-15.51.36:682][682]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 103
+[2021.05.02-15.51.36:752][686]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 102
+[2021.05.02-15.51.36:770][687]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 101
+[2021.05.02-15.51.36:820][690]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 100
+[2021.05.02-15.51.36:857][692]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 99
+[2021.05.02-15.51.36:890][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 98
+[2021.05.02-15.51.37:014][701]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 97
+[2021.05.02-15.51.37:014][701]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 96
+[2021.05.02-15.51.37:148][708]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 95
+[2021.05.02-15.51.37:385][720]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 94
+[2021.05.02-15.51.37:461][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 93
+[2021.05.02-15.51.37:481][725]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 92
+[2021.05.02-15.51.37:481][725]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 91
+[2021.05.02-15.51.37:543][728]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 90
+[2021.05.02-15.51.37:681][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 89
+[2021.05.02-15.51.37:740][739]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2021.05.02-15.51.37:871][746]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 87
+[2021.05.02-15.51.37:966][751]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 86
+[2021.05.02-15.51.38:002][753]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 85
+[2021.05.02-15.51.38:022][754]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2021.05.02-15.51.38:213][764]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 83
+[2021.05.02-15.51.38:290][768]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 82
+[2021.05.02-15.51.38:355][772]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 81
+[2021.05.02-15.51.38:373][773]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 80
+[2021.05.02-15.51.38:680][790]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 79
+[2021.05.02-15.51.38:739][793]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 78
+[2021.05.02-15.51.38:919][802]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 77
+[2021.05.02-15.51.39:054][809]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 76
+[2021.05.02-15.51.39:124][813]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 75
+[2021.05.02-15.51.39:124][813]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2021.05.02-15.51.39:141][814]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 73
+[2021.05.02-15.51.39:191][817]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 72
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Base pass vertex shader: 59 instructions
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Base pass vertex shader: 166 instructions
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Texture samplers: 4/16
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.05.02-15.51.39:237][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.05.02-15.51.39:280][821]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 71
+[2021.05.02-15.51.39:372][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2021.05.02-15.51.39:721][842]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2021.05.02-15.51.39:816][847]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2021.05.02-15.51.39:816][847]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 46
+[2021.05.02-15.51.39:872][850]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.05.02-15.51.39:928][853]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.05.02-15.51.39:928][853]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.05.02-15.51.39:977][856]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.05.02-15.51.42:159][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2021.05.02-15.51.42:309][986]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.05.02-15.51.42:377][990]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2021.05.02-15.51.42:875][ 18]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.05.02-15.51.42:951][ 22]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.05.02-15.51.43:077][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.05.02-15.51.43:362][ 44]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.05.02-15.51.43:399][ 46]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.05.02-15.51.43:556][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.05.02-15.51.43:909][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.05.02-15.51.43:909][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.05.02-15.51.43:985][ 75]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.05.02-16.07.36:386][556]LogSlate: Window 'M_Enemy_ChestLogo_2' being destroyed
+[2021.05.02-16.07.36:393][556]LogSlate: Window 'M_Enemy_ChestLogo_2' being destroyed
+[2021.05.02-16.07.36:397][556]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.36:397][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.36:476][556]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.02-16.07.36:476][556]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.36:477][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.36:540][556]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.36:540][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.36:564][556]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.36:564][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.37:054][556]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.37:054][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.37:081][556]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.37:081][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.37:105][556]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.37:105][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.37:123][556]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.07.37:123][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.07.39:094][673]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter
+[2021.05.02-16.13.25:124][361]LogEditorTransaction: Undo 選択対象を削除
+[2021.05.02-16.13.29:665][601]LogSlate: Took 0.159184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.02-16.13.37:772][ 77]LogEditorTransaction: Undo 選択対象を削除
+[2021.05.02-16.14.47:059][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.05.02-16.14.47:061][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.079
+[2021.05.02-16.14.47:061][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/EnemyCharacter] ([1] browsable assets)...
+[2021.05.02-16.14.47:071][441]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter]
+[2021.05.02-16.14.47:071][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/EnemyCharacter]
+[2021.05.02-16.14.47:072][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.14.47:085][441]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_Auto1D01EF51E4930890153285398DA018A96.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_Auto1.uasset'
+[2021.05.02-16.14.47:184][441]LogFileHelpers: Auto-saving content packages took 0.123
+[2021.05.02-16.14.54:553][755]LogSlate: Window '変数を削除' being destroyed
+[2021.05.02-16.15.01:072][129]LogSlate: Took 0.111555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.02-16.15.04:962][220]LogSlate: Window '変数の型を変更' being destroyed
+[2021.05.02-16.15.58:384][391]LogMetaData: Removing '/Game/Asset/enum.enum' ref from Metadata '/Game/enum.PackageMetaData'
+[2021.05.02-16.15.58:604][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/enum" FILE="../../../../practice/MyProject/Content/Asset/enum.uasset" SILENT=true
+[2021.05.02-16.15.58:605][391]LogSavePackage: Moving '../../../../practice/MyProject/Saved/enumED3CC4764D5165550D9FA4AFE40EE8A3.tmp' to '../../../../practice/MyProject/Content/Asset/enum.uasset'
+[2021.05.02-16.15.58:693][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.05.02-16.15.58:717][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.05.02-16.15.58:733][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.02-16.15.58:759][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../practice/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2021.05.02-16.15.58:796][391]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacterB095A89B44DF092047E96490F798C226.tmp' to '../../../../practice/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.02-16.15.58:811][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset" SILENT=true
+[2021.05.02-16.15.58:824][391]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter4AC246C046C3F5C096C777B95DF5D111.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset'
+[2021.05.02-16.15.58:864][391]AssetCheck: New page: アセット保存:複数のアセット
+[2021.05.02-16.15.58:864][391]LogContentValidation: Display: UserDefinedEnum /Game/Asset/enum.enum を検証しています
+[2021.05.02-16.15.58:864][391]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter を検証しています
+[2021.05.02-16.15.58:864][391]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter を検証しています
+[2021.05.02-16.16.02:176][589]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Asset/enum.enum
+[2021.05.02-16.16.04:548][719]LogSlate: Window 'enum' being destroyed
+[2021.05.02-16.16.04:555][719]LogSlate: Window 'enum' being destroyed
+[2021.05.02-16.16.04:558][719]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.16.04:558][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.16.16:316][418]LogContentBrowser: Attempting asset rename: enum -> playerState
+[2021.05.02-16.16.16:333][418]LogMetaData: Removing '/Game/Asset/playerState.playerState' ref from Metadata '/Game/Asset/enum.PackageMetaData'
+[2021.05.02-16.16.16:348][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/playerState" FILE="../../../../practice/MyProject/Content/Asset/playerState.uasset" SILENT=true
+[2021.05.02-16.16.16:349][418]LogSavePackage: Moving '../../../../practice/MyProject/Saved/playerState2B1D8AD64EC19C240BBC3FB4BC1FB8F8.tmp' to '../../../../practice/MyProject/Content/Asset/playerState.uasset'
+[2021.05.02-16.16.16:400][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.02-16.16.16:423][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.02-16.16.16:436][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.02-16.16.16:457][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../practice/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2021.05.02-16.16.16:494][418]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacter16CEA95A4AF4E5BA66F577A92CB44D49.tmp' to '../../../../practice/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.02-16.16.16:502][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset" SILENT=true
+[2021.05.02-16.16.16:515][418]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacterDC3C4CED4F8352464E8F278ED2B7CF1D.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset'
+[2021.05.02-16.16.16:545][418]AssetCheck: New page: アセット保存:複数のアセット
+[2021.05.02-16.16.16:545][418]LogContentValidation: Display: UserDefinedEnum /Game/Asset/playerState.playerState を検証しています
+[2021.05.02-16.16.16:546][418]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter を検証しています
+[2021.05.02-16.16.16:546][418]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter を検証しています
+[2021.05.02-16.16.18:585][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.05.02-16.16.21:102][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.05.02-16.16.22:551][772]Cmd: TRANSACTION UNDO
+[2021.05.02-16.16.22:551][772]LogEditorTransaction: Undo 変数を取り除く
+[2021.05.02-16.16.24:157][868]Cmd: TRANSACTION UNDO
+[2021.05.02-16.16.24:157][868]LogEditorTransaction: Undo グラフを取り除く
+[2021.05.02-16.16.44:072][ 55]LogContentBrowser: Attempting asset rename: playerState_2 -> enemyState
+[2021.05.02-16.16.44:112][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/enemyState" FILE="../../../../practice/MyProject/Content/Asset/enemyState.uasset" SILENT=true
+[2021.05.02-16.16.44:113][ 55]LogSavePackage: Moving '../../../../practice/MyProject/Saved/enemyStateEFEFA4934D487783ECD9E6828F3EF617.tmp' to '../../../../practice/MyProject/Content/Asset/enemyState.uasset'
+[2021.05.02-16.16.44:168][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.05.02-16.16.44:196][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.05.02-16.16.44:209][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.02-16.16.44:235][ 55]AssetCheck: New page: アセット保存:enemyState
+[2021.05.02-16.16.44:235][ 55]LogContentValidation: Display: UserDefinedEnum /Game/Asset/enemyState.enemyState を検証しています
+[2021.05.02-16.17.31:197][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter
+[2021.05.02-16.17.34:429][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset" SILENT=true
+[2021.05.02-16.17.34:443][946]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter5A81D31D40165909531389A17E36EAB9.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset'
+[2021.05.02-16.17.34:455][946]AssetCheck: New page: アセット保存:EnemyCharacter
+[2021.05.02-16.17.34:455][946]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter を検証しています
+[2021.05.02-16.17.59:287][306]LogSlate: Window '変数の型を変更' being destroyed
+[2021.05.02-16.18.06:123][695]LogSlate: Window 'ブループリントを検索' being destroyed
+[2021.05.02-16.18.06:128][695]LogSlate: Window 'ブループリントを検索' being destroyed
+[2021.05.02-16.20.20:760][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset" SILENT=true
+[2021.05.02-16.20.20:781][891]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacterF573000449D9F73672D2C8A57AB44EC6.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter.uasset'
+[2021.05.02-16.20.20:793][891]AssetCheck: New page: アセット保存:EnemyCharacter
+[2021.05.02-16.20.20:793][891]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter.EnemyCharacter を検証しています
+[2021.05.02-16.20.21:694][945]BlueprintLog: New page: EnemyCharacter をコンパイル
+[2021.05.02-16.20.21:701][945]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_15, Actor: /Engine/Transient.World_15:PersistentLevel.REINST_EnemyCharacter_C_0
+[2021.05.02-16.20.21:730][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.05.02-16.21.35:226][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.05.02-16.21.46:246][988]LogContentBrowser: Attempting asset rename: EnemyCharacter -> EnemyCharacterBase
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.EnemyCharacterBase_C' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.SKEL_EnemyCharacterBase_C' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.EnemyCharacterBase_C:Change State' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.EnemyCharacterBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.SKEL_EnemyCharacterBase_C:Change State' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.SKEL_EnemyCharacterBase_C:UserConstructionScript' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:262][988]LogMetaData: Removing '/Game/Asset/EnemyCharacterBase.SKEL_EnemyCharacterBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Asset/EnemyCharacter.PackageMetaData'
+[2021.05.02-16.21.46:300][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacterBase" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacterBase.uasset" SILENT=true
+[2021.05.02-16.21.46:310][988]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacterBase85A84B94421973888A6492BC791A174D.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacterBase.uasset'
+[2021.05.02-16.21.46:358][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.05.02-16.21.46:385][988]AssetCheck: New page: アセット保存:EnemyCharacterBase
+[2021.05.02-16.21.46:386][988]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacterBase.EnemyCharacterBase を検証しています
+[2021.05.02-16.21.49:756][187]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2
+[2021.05.02-16.22.52:354][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter_2" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset" SILENT=true
+[2021.05.02-16.22.52:365][820]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_245BEC9764DEEC3E00EEA6DB563B55213.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset'
+[2021.05.02-16.22.52:377][820]AssetCheck: New page: アセット保存:EnemyCharacter_2
+[2021.05.02-16.22.52:377][820]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2 を検証しています
+[2021.05.02-16.22.52:871][850]BlueprintLog: New page: EnemyCharacter_2 をコンパイル
+[2021.05.02-16.22.52:918][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.05.02-16.22.54:048][917]BlueprintLog: New page: EnemyCharacter_2 をコンパイル
+[2021.05.02-16.22.54:083][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.02-16.23.52:629][551]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.02-16.23.53:017][551]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2021.05.02-16.23.53:018][551]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.05.02-16.23.53:046][551]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.05.02-16.23.53:071][551]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter_2 before play...
+[2021.05.02-16.23.53:116][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.05.02-16.23.53:117][551]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (3 blueprints)
+[2021.05.02-16.23.53:167][551]PIE: New page: PIEセッション: ThirdPersonExampleMap (2021/05/03 10:23:53)
+[2021.05.02-16.23.53:178][551]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.02-16.23.53:185][551]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.02-16.23.53:186][551]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.02-16.23.53:198][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012766s)
+[2021.05.02-16.23.53:310][551]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.05.02-16.23.53:311][551]LogPlayLevel: PIE: World Init took: (0.112009s)
+[2021.05.02-16.23.53:311][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.125049s)
+[2021.05.02-16.23.53:331][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.02-16.23.53:351][551]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.02-16.23.53:351][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.02-16.23.53:351][551]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.02-16.23.53:351][551]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.02-16.23.53:354][551]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.02-16.23.53:354][551]LogAudioMixer: Display: 1: FrontRight
+[2021.05.02-16.23.53:374][551]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.02-16.23.53:374][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.02-16.23.53:374][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.02-16.23.53:374][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.02-16.23.53:375][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.02-16.23.53:375][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.02-16.23.53:375][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.02-16.23.53:387][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.02-16.23.53:387][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.02-16.23.53:387][551]LogInit: FAudioDevice initialized.
+[2021.05.02-16.23.53:387][551]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.05.02-16.23.53:398][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.02-16.23.53:486][551]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.05.03-01.23.53
+[2021.05.02-16.23.53:607][551]LogWorld: Bringing up level for play took: 0.193855
+[2021.05.02-16.23.53:608][551]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.05.02-16.23.53:702][551]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.05.02-16.23.53:703][551]PIE: サーバーにログインしました
+[2021.05.02-16.23.53:721][551]PIE: PIE合計開始時間 0.799 秒。
+[2021.05.02-16.24.15:842][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-16.24.15:842][843]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.05.02-16.24.15:850][843]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.24.15:850][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.24.15:862][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.02-16.24.15:899][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.24.15:938][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.02-16.24.15:938][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-16.24.15:939][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.02-16.24.15:977][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.05.02-16.24.16:014][844]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.05.02-16.25.07:304][261]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.05.02-16.25.33:789][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.05.02-16.25.33:951][933]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonExampleMap_Auto21528F458497964BFAEE55E8BF44FB321.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.05.02-16.25.33:951][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.192
+[2021.05.02-16.25.33:951][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.192
+[2021.05.02-16.25.33:952][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.25.33:952][933]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_Auto292B850404BC2A97B9502D2B87C031CD7.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_Auto2.uasset'
+[2021.05.02-16.25.33:953][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.05.02-16.25.33:970][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.05.02-16.25.33:970][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/ThirdPersonCharacter]
+[2021.05.02-16.25.33:970][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/ThirdPersonCharacter" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.25.34:009][933]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacter_Auto21FBF0B2B42CF08DE189F11A9E910DB65.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_Auto2.uasset'
+[2021.05.02-16.25.34:009][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/ThirdPersonCharacter_2] ([1] browsable assets)...
+[2021.05.02-16.25.34:023][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/ThirdPersonCharacter_2.ThirdPersonCharacter_2]
+[2021.05.02-16.25.34:023][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/ThirdPersonCharacter_2]
+[2021.05.02-16.25.34:023][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/ThirdPersonCharacter_2" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.25.34:061][933]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacter_2_Auto21E8392B344BB273F470158A6C18B6AA7.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_2_Auto2.uasset'
+[2021.05.02-16.25.34:061][933]LogFileHelpers: Auto-saving content packages took 0.110
+[2021.05.02-16.27.18:607][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.02-16.27.28:763][797]Cmd: TRANSACTION UNDO
+[2021.05.02-16.27.28:763][797]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.27.30:921][923]Cmd: TRANSACTION UNDO
+[2021.05.02-16.27.30:921][923]LogEditorTransaction: Undo アクタをクリック
+[2021.05.02-16.28.26:992][922]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.26:992][922]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.27:333][942]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.27:333][942]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.27:587][956]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.27:587][956]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.27:807][969]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.27:807][969]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.28:041][983]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.28:041][983]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.28:257][996]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.28:258][996]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.28:574][ 15]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.28:574][ 15]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.28:824][ 30]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.28:824][ 30]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.29:141][ 49]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.29:141][ 49]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.29:474][ 69]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.29:474][ 69]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.29:807][ 89]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.29:807][ 89]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.30:091][106]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.30:091][106]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.30:375][123]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.30:375][123]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.30:674][141]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.30:674][141]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.30:907][155]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.30:908][155]LogEditorTransaction: Undo アクタ をスケール
+[2021.05.02-16.28.31:158][170]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.31:158][170]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.31:408][185]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.31:408][185]LogEditorTransaction: Undo 複数のアクタを作成
+[2021.05.02-16.28.31:439][185]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2021.05.02-16.28.31:654][196]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.31:654][196]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.32:071][221]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.32:071][221]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.32:370][239]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.32:370][239]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.32:671][257]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.32:671][257]LogEditorTransaction: Undo アクタ を移動
+[2021.05.02-16.28.32:937][273]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.32:937][273]LogEditorTransaction: Undo 複数のアクタを作成
+[2021.05.02-16.28.33:437][303]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.33:437][303]LogEditorTransaction: Undo コンポーネントを利用したマテリアルを置換
+[2021.05.02-16.28.33:743][321]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.33:743][321]LogEditorTransaction: Undo コンポーネントを利用したマテリアルを置換
+[2021.05.02-16.28.34:009][337]Cmd: TRANSACTION UNDO
+[2021.05.02-16.28.34:010][337]LogEditorTransaction: Undo ノードの状態を有効に設定
+[2021.05.02-16.30.36:391][313]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.05.02-16.32.10:996][116]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.32.10:996][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.32.12:798][222]LogSlate: Window 'EnemyCharacterBase' being destroyed
+[2021.05.02-16.32.12:853][222]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.02-16.32.12:854][222]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.05.02-16.32.12:854][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.02-16.32.28:401][151]Cmd: DELETE
+[2021.05.02-16.32.28:401][151]Cmd: ACTOR DELETE
+[2021.05.02-16.32.28:546][151]LogEditorActor: Deleted Actor: RecastNavMesh
+[2021.05.02-16.32.28:547][151]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.05.02-16.32.28:589][151]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.05.02-16.32.28:597][151]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2021.05.02-16.32.28:597][151]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2021.05.02-16.32.31:441][322]Cmd: DELETE
+[2021.05.02-16.32.31:441][322]Cmd: ACTOR DELETE
+[2021.05.02-16.32.31:443][322]LogEditorActor: Deleted Actor: RecastNavMesh
+[2021.05.02-16.32.31:443][322]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.05.02-16.32.31:476][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.05.02-16.32.31:477][322]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.05.02-16.32.33:746][458]Cmd: DELETE
+[2021.05.02-16.32.33:746][458]Cmd: ACTOR DELETE
+[2021.05.02-16.32.33:748][458]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2021.05.02-16.32.33:761][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.02-16.32.33:762][458]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.05.02-16.32.33:764][458]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.05.02-16.32.33:764][458]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.05.02-16.32.35:002][533]Cmd: DELETE
+[2021.05.02-16.32.35:002][533]Cmd: ACTOR DELETE
+[2021.05.02-16.32.35:014][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.05.02-16.32.35:015][533]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2021.05.02-16.32.36:336][613]Cmd: DELETE
+[2021.05.02-16.32.36:336][613]Cmd: ACTOR DELETE
+[2021.05.02-16.32.36:337][613]LogEditorActor: Deleted Actor: RecastNavMesh
+[2021.05.02-16.32.36:338][613]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2021.05.02-16.32.36:350][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.02-16.32.36:351][613]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.05.02-16.34.45:243][886]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.02-16.35.25:164][692]LogSlate: Window 'プロジェクト設定' being destroyed
+[2021.05.02-16.35.25:172][692]LogSlate: Window 'プロジェクト設定' being destroyed
+[2021.05.02-16.35.39:307][160]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2021.05.02-16.35.39:319][160]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2021.05.02-16.35.47:888][673]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> EnemyAI
+[2021.05.02-16.35.48:012][673]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2021.05.02-16.35.49:304][742]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Asset/EnemyAI.EnemyAI
+[2021.05.02-16.36.00:118][905]LogSlate: Window 'EnemyAI' being destroyed
+[2021.05.02-16.36.00:129][905]LogSlate: Window 'EnemyAI' being destroyed
+[2021.05.02-16.36.12:225][630]LogContentBrowser: Attempting asset rename: EnemyAI -> BT_Enemy
+[2021.05.02-16.36.12:241][630]LogMetaData: Removing '/Game/Asset/BT_Enemy.BT_Enemy:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Asset/EnemyAI.PackageMetaData'
+[2021.05.02-16.36.12:260][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/BT_Enemy" FILE="../../../../practice/MyProject/Content/Asset/BT_Enemy.uasset" SILENT=true
+[2021.05.02-16.36.12:261][630]LogSavePackage: Moving '../../../../practice/MyProject/Saved/BT_Enemy5C4A37F046ECE554FBFEA1904F39CF77.tmp' to '../../../../practice/MyProject/Content/Asset/BT_Enemy.uasset'
+[2021.05.02-16.36.12:349][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.05.02-16.36.12:386][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.05.02-16.36.12:399][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.02-16.36.12:424][630]AssetCheck: New page: アセット保存:BT_Enemy
+[2021.05.02-16.36.12:424][630]LogContentValidation: Display: BehaviorTree /Game/Asset/BT_Enemy.BT_Enemy を検証しています
+[2021.05.02-16.36.16:996][896]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2021.05.02-16.36.17:007][896]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2021.05.02-16.36.28:526][586]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BB_Enemy
+[2021.05.02-16.36.28:527][586]LogContentBrowser: End creating deferred item NewBlackboardData
+[2021.05.02-16.36.49:068][119]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2021.05.02-16.36.49:078][119]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2021.05.02-16.37.04:946][ 70]LogContentBrowser: Attempting asset rename: NewEnvQuery -> EQS_Enemy
+[2021.05.02-16.37.04:946][ 70]LogContentBrowser: End creating deferred item NewEnvQuery
+[2021.05.02-16.37.30:136][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.05.02-16.37.30:155][298]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonExampleMap_Auto3130B75A243578A7B1D17EEB180847BCA.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.05.02-16.37.30:156][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.05.02-16.37.30:156][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.05.02-16.37.30:156][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.05.02-16.37.30:173][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.05.02-16.37.30:173][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/ThirdPersonCharacter]
+[2021.05.02-16.37.30:173][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/ThirdPersonCharacter" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.37.30:211][298]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacter_Auto3AD8F3CC44464011713867C83D4FC8067.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_Auto3.uasset'
+[2021.05.02-16.37.30:211][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/ThirdPersonCharacter_2] ([1] browsable assets)...
+[2021.05.02-16.37.30:228][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/ThirdPersonCharacter_2.ThirdPersonCharacter_2]
+[2021.05.02-16.37.30:228][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/ThirdPersonCharacter_2]
+[2021.05.02-16.37.30:229][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/ThirdPersonCharacter_2" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.37.30:266][298]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonCharacter_2_Auto36E136232440345733B29C3A014674FED.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/ThirdPersonCharacter_2_Auto3.uasset'
+[2021.05.02-16.37.30:267][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/EnemyCharacter_2] ([2] browsable assets)...
+[2021.05.02-16.37.30:283][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2]
+[2021.05.02-16.37.30:300][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2]
+[2021.05.02-16.37.30:300][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/EnemyCharacter_2]
+[2021.05.02-16.37.30:300][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter_2" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.37.30:310][298]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_2_Auto3866F977E45FF1721A14A5AB1218332E9.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/EnemyCharacter_2_Auto3.uasset'
+[2021.05.02-16.37.30:311][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Asset/BB_Enemy] ([1] browsable assets)...
+[2021.05.02-16.37.30:311][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/BB_Enemy]
+[2021.05.02-16.37.30:311][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/BB_Enemy" FILE="../../../../practice/MyProject/Saved/Autosaves/Game/Asset/BB_Enemy_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.02-16.37.30:311][298]LogSavePackage: Moving '../../../../practice/MyProject/Saved/BB_Enemy_Auto37A75D72F41BF3133B15462BDC87255F8.tmp' to '../../../../practice/MyProject/Saved/Autosaves/Game/Asset/BB_Enemy_Auto3.uasset'
+[2021.05.02-16.37.30:312][298]LogFileHelpers: Auto-saving content packages took 0.155
+[2021.05.02-16.47.36:393][ 81]LogSlate: Window '親クラスを選択' being destroyed
+[2021.05.02-16.47.36:399][ 81]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.05.02-16.47.36:413][ 81]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.05.02-16.47.47:927][760]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2021.05.02-16.47.48:034][760]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Asset/BP_Enemy.
+[2021.05.02-16.47.48:034][760]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.05.02-16.48.23:191][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.05.02-16.48.23:211][142]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonExampleMap8F4919A14298DB807FE4368EE8D27916.tmp' to '../../../../practice/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.05.02-16.48.23:222][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../practice/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.05.02-16.48.23:321][142]LogSavePackage: Moving '../../../../practice/MyProject/Saved/ThirdPersonExampleMap_BuiltData10B1B6F44D003BCD5286C2B71C5A3187.tmp' to '../../../../practice/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.05.02-16.48.23:333][142]AssetCheck: New page: アセット保存:複数のアセット
+[2021.05.02-16.48.23:333][142]LogContentValidation: Display: MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData を検証しています
+[2021.05.02-16.48.23:333][142]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2021.05.02-16.48.25:327][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2
+[2021.05.02-16.48.48:032][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter_2" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset" SILENT=true
+[2021.05.02-16.48.48:039][ 41]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_2A186F1DC4ABF5E651BCDE1ADB1C4801D.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset'
+[2021.05.02-16.48.48:050][ 41]AssetCheck: New page: アセット保存:EnemyCharacter_2
+[2021.05.02-16.48.48:050][ 41]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2 を検証しています
+[2021.05.02-16.48.53:134][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/BP_Enemy.BP_Enemy
+[2021.05.02-16.50.15:056][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/BP_Enemy" FILE="../../../../practice/MyProject/Content/Asset/BP_Enemy.uasset" SILENT=true
+[2021.05.02-16.50.15:060][118]LogSavePackage: Moving '../../../../practice/MyProject/Saved/BP_EnemyED46EDCB4FB01A93249AD5A924EE73B9.tmp' to '../../../../practice/MyProject/Content/Asset/BP_Enemy.uasset'
+[2021.05.02-16.50.15:067][118]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Asset/BP_Enemy.
+[2021.05.02-16.50.15:071][118]AssetCheck: New page: アセット保存:BP_Enemy
+[2021.05.02-16.50.15:071][118]LogContentValidation: Display: Blueprint /Game/Asset/BP_Enemy.BP_Enemy を検証しています
+[2021.05.02-16.50.35:444][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyCharacterBase.EnemyCharacterBase
+[2021.05.02-16.51.24:978][ 29]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.02-16.51.33:626][542]BlueprintLog: New page: EnemyCharacterBase をコンパイル
+[2021.05.02-16.51.33:644][542]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_15, Actor: /Engine/Transient.World_15:PersistentLevel.REINST_EnemyCharacterBase_C_0
+[2021.05.02-16.51.33:681][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.02-16.51.34:630][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacterBase" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacterBase.uasset" SILENT=true
+[2021.05.02-16.51.34:642][595]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacterBase7B71C6B2489A79F50E1D1C8961A9E663.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacterBase.uasset'
+[2021.05.02-16.51.34:652][595]AssetCheck: New page: アセット保存:EnemyCharacterBase
+[2021.05.02-16.51.34:652][595]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacterBase.EnemyCharacterBase を検証しています
+[2021.05.02-16.51.41:238][988]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.02-16.51.46:401][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter_2" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset" SILENT=true
+[2021.05.02-16.51.46:412][292]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_2D7E87CC2402938FB7CE801BB409FD86A.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset'
+[2021.05.02-16.51.46:423][292]AssetCheck: New page: アセット保存:EnemyCharacter_2
+[2021.05.02-16.51.46:423][292]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2 を検証しています
+[2021.05.02-16.51.51:136][573]BlueprintLog: New page: EnemyCharacter_2 をコンパイル
+[2021.05.02-16.51.51:187][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.05.02-16.51.51:729][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyCharacter_2" FILE="../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset" SILENT=true
+[2021.05.02-16.51.51:740][602]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EnemyCharacter_2D569ADAD4B4A630349B4FFAD7D769F15.tmp' to '../../../../practice/MyProject/Content/Asset/EnemyCharacter_2.uasset'
+[2021.05.02-16.51.51:750][602]AssetCheck: New page: アセット保存:EnemyCharacter_2
+[2021.05.02-16.51.51:750][602]LogContentValidation: Display: Blueprint /Game/Asset/EnemyCharacter_2.EnemyCharacter_2 を検証しています
+[2021.05.02-16.52.30:035][528]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/Asset/EQS_Enemy.EQS_Enemy
+[2021.05.02-16.53.10:831][848]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.02-16.54.13:016][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EQS_Enemy" FILE="../../../../practice/MyProject/Content/Asset/EQS_Enemy.uasset" SILENT=true
+[2021.05.02-16.54.13:017][783]LogSavePackage: Moving '../../../../practice/MyProject/Saved/EQS_Enemy3A01326847FFA969E637E2BAB03C247A.tmp' to '../../../../practice/MyProject/Content/Asset/EQS_Enemy.uasset'
+[2021.05.02-16.54.13:030][783]AssetCheck: New page: アセット保存:EQS_Enemy
+[2021.05.02-16.54.13:030][783]LogContentValidation: Display: EnvQuery /Game/Asset/EQS_Enemy.EQS_Enemy を検証しています
+[2021.05.02-16.54.16:351][981]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Asset/BT_Enemy.BT_Enemy
+[2021.05.02-16.55.07:373][ 17]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.02-16.55.09:982][ 17]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.609 s
+[2021.05.02-16.55.09:982][ 17]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.02-16.55.09:982][ 17]LogOutputDevice: Error: 
+[2021.05.02-16.55.09:982][ 17]LogOutputDevice: Error: Ensure condition failed: BBAsset [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Services/BTService_BlackboardBase.cpp] [Line: 16]
+[2021.05.02-16.55.09:982][ 17]LogOutputDevice: Error: 
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: Stack: 
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa91afc2e8 UE4Editor-AIModule.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa919dc375 UE4Editor-AIModule.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87e6a71d UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87fb0d25 UE4Editor-AIGraph.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87f9fffb UE4Editor-AIGraph.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87fb0b5a UE4Editor-AIGraph.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87fad8aa UE4Editor-AIGraph.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffa87fa7092 UE4Editor-AIGraph.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa584c0ae UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa587af5b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa5807d07 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa58a3df6 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa58a439e UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaa5887d7d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffabf1146be UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffabf197f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffabf180337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.02-16.55.09:983][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffabf173632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaedeabcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaede99197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaedeae389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaede94310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffb2377e858 USER32.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffb2377e299 USER32.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffaedeaf914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff6e7428848 UE4Editor.exe!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff6e744117c UE4Editor.exe!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff6e744125a UE4Editor.exe!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff6e74552bd UE4Editor.exe!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff6e7457fea UE4Editor.exe!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffb23ae7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffb24dc2651 ntdll.dll!UnknownFunction []
+[2021.05.02-16.55.09:984][ 17]LogOutputDevice: Error: 
