@@ -816,3 +816,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.08-13.01.59:747][417]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.05.08-13.01.59:813][417]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
 [2021.05.08-13.01.59:830][418]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.08-13.41.33:365][721]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.08-15.22.34:438][721]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.08-15.22.34:438][721]LogAudioMixer: Display: 1: FrontRight
+[2021.05.08-15.22.34:602][722]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.08-15.22.34:635][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.08-15.22.34:635][722]LogAudioMixer: Display: 1: FrontRight
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B78A3F92C-4B02-9498-0BE0-FE8F1B7FFAEB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=eece109c48c36f0b8f63e39ef215791f%7C01126d4807284bce9895909cd165b3c3%7C10369aeb-2a38-4bc8-8e2b-480cb0f895fe&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26e73dfbeb0 [can pipeline])
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.224.146.173) port 443 (#0))
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: 0000026E8C9BDD00: libcurl info message cache 7 (Closing connection 0)
+[2021.05.08-15.22.34:944][724]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B78A3F92C-4B02-9498-0BE0-FE8F1B7FFAEB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=eece109c48c36f0b8f63e39ef215791f%7C01126d4807284bce9895909cd165b3c3%7C10369aeb-2a38-4bc8-8e2b-480cb0f895fe&AppEnvironment=datacollector-binary&UploadType=eteventstream
