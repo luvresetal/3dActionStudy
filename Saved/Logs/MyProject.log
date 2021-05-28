@@ -3543,3 +3543,611 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.28-13.01.50:751][407]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap2EE181634BBF6D072E7D3DA742EF4921.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
 [2021.05.28-13.01.50:772][407]AssetCheck: New page: アセット保存:myMap
 [2021.05.28-13.01.50:772][407]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.03.24:081][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.05.28-13.03.24:096][ 88]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Asset/QusetAssets/myMap.myMap
+[2021.05.28-13.03.24:097][ 88]Cmd: MAP LOAD FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.28-13.03.24:097][ 88]LightingResults: New page: ライティングのビルド
+[2021.05.28-13.03.24:097][ 88]LoadErrors: New page: マップをロード中: myMap.umap
+[2021.05.28-13.03.24:097][ 88]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.03.24:097][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.03.24:097][ 88]MapCheck: New page: マップをチェック
+[2021.05.28-13.03.24:097][ 88]LightingResults: New page: <何も選択されていません>
+[2021.05.28-13.03.24:111][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.03.24:114][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.05.28-13.03.24:117][ 88]LogAudio: Display: Audio Device (ID: 1) registered with world 'myMap'.
+[2021.05.28-13.03.24:118][ 88]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.03.24:120][ 88]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.28-13.03.24:137][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.05.28-13.03.24:146][ 88]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.28-13.03.24:146][ 88]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.106ミリ秒かかりました。
+[2021.05.28-13.03.24:146][ 88]LogFileHelpers: Loading map 'myMap' took 0.050
+[2021.05.28-13.03.40:749][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.05.28-13.03.43:759][236]LogEditorViewport: Clicking on Actor (LMB): moveFloor_C (moveFloor)
+[2021.05.28-13.03.58:269][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.05.28-13.04.02:179][330]LogEditorViewport: Clicking on Actor (LMB): moveFloor_C (moveFloor)
+[2021.05.28-13.04.07:083][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.05.28-13.04.07:839][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.05.28-13.04.08:755][722]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.05.28-13.04.10:845][840]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.05.28-13.04.12:812][938]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.04.12:819][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.04.12:819][938]PIE: New page: PIEセッション: myMap (2021/05/29 7:04:12)
+[2021.05.28-13.04.12:819][938]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.04.12:822][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002429s)
+[2021.05.28-13.04.12:823][938]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.04.12:823][938]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2021.05.28-13.04.12:823][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.003841s)
+[2021.05.28-13.04.12:857][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.28-13.04.12:861][938]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.04.12:861][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.04.12:861][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.04.12:862][938]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.04.12:862][938]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.04.12:864][938]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.04.12:864][938]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.04.12:890][938]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.04.12:890][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.04.12:890][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.04.12:890][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.04.12:891][938]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.04.12:891][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.04.12:891][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.04.12:905][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.04.12:905][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.04.12:905][938]LogInit: FAudioDevice initialized.
+[2021.05.28-13.04.12:905][938]LogAudio: Display: Audio Device (ID: 4) registered with world 'myMap'.
+[2021.05.28-13.04.12:916][938]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.04.12:917][938]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.04.12
+[2021.05.28-13.04.12:917][938]LogWorld: Bringing up level for play took: 0.000531
+[2021.05.28-13.04.12:918][938]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.05.28-13.04.12:942][938]PIE: サーバーにログインしました
+[2021.05.28-13.04.12:943][938]PIE: PIE合計開始時間 0.125 秒。
+[2021.05.28-13.04.23:235][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.04.23:235][548]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.04.23:235][548]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.04.23:236][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.04.23:247][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.04.23:259][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.04.23:275][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.04.23:275][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.04.23:276][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.04.23:292][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.04.23:295][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.05.28-13.04.23:319][549]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.05.28-13.04.24:384][612]LogEditorViewport: Clicking on Actor (LMB): moveFloor_C (moveFloor)
+[2021.05.28-13.04.24:497][618]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (plane)
+[2021.05.28-13.04.27:145][775]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor2)
+[2021.05.28-13.04.28:576][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.28-13.04.35:873][269]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.04.35:879][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.04.35:879][269]PIE: New page: PIEセッション: myMap (2021/05/29 7:04:35)
+[2021.05.28-13.04.35:879][269]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.04.35:881][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001871s)
+[2021.05.28-13.04.35:883][269]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.04.35:883][269]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2021.05.28-13.04.35:883][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.003967s)
+[2021.05.28-13.04.35:899][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.05.28-13.04.35:901][269]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.04.35:901][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.04.35:901][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.04.35:902][269]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.04.35:902][269]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.04.35:905][269]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.04.35:905][269]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.04.35:925][269]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.04.35:925][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.04.35:925][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.04.35:925][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.04.35:926][269]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.04.35:926][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.04.35:926][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.04.35:940][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.04.35:940][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.04.35:940][269]LogInit: FAudioDevice initialized.
+[2021.05.28-13.04.35:940][269]LogAudio: Display: Audio Device (ID: 5) registered with world 'myMap'.
+[2021.05.28-13.04.35:945][269]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.04.35:947][269]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.04.35
+[2021.05.28-13.04.35:947][269]LogWorld: Bringing up level for play took: 0.000503
+[2021.05.28-13.04.35:947][269]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.28-13.04.35:950][269]PIE: サーバーにログインしました
+[2021.05.28-13.04.35:951][269]PIE: PIE合計開始時間 0.072 秒。
+[2021.05.28-13.04.41:379][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.04.41:379][593]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.04.41:379][593]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.04.41:379][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.04.41:388][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.04.41:396][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.04.41:411][593]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.04.41:411][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.04.41:412][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.04.41:427][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.04.41:430][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.28-13.04.41:452][594]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.28-13.04.49:769][ 93]LogEditorViewport: Clicking on Actor (LMB): moveFloor_C (moveFloor)
+[2021.05.28-13.04.55:254][420]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.04.55:260][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.04.55:260][420]PIE: New page: PIEセッション: myMap (2021/05/29 7:04:55)
+[2021.05.28-13.04.55:260][420]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.04.55:263][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002619s)
+[2021.05.28-13.04.55:264][420]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.04.55:264][420]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2021.05.28-13.04.55:264][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.004050s)
+[2021.05.28-13.04.55:282][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.28-13.04.55:285][420]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.04.55:285][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.04.55:285][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.04.55:286][420]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.04.55:286][420]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.04.55:288][420]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.04.55:288][420]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.04.55:308][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.04.55:308][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.04.55:323][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.04.55:323][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.04.55:323][420]LogInit: FAudioDevice initialized.
+[2021.05.28-13.04.55:323][420]LogAudio: Display: Audio Device (ID: 6) registered with world 'myMap'.
+[2021.05.28-13.04.55:334][420]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.04.55:336][420]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.04.55
+[2021.05.28-13.04.55:336][420]LogWorld: Bringing up level for play took: 0.000754
+[2021.05.28-13.04.55:336][420]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.28-13.04.55:340][420]PIE: サーバーにログインしました
+[2021.05.28-13.04.55:341][420]PIE: PIE合計開始時間 0.081 秒。
+[2021.05.28-13.05.04:479][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.05.04:479][967]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.05.04:479][967]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.05.04:480][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.05.04:485][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.05.04:495][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.05.04:508][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.05.04:508][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.05.04:509][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.05.04:524][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.05.04:527][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.05.28-13.05.04:554][968]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.28-13.05.06:233][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.05.28-13.05.18:825][814]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.18:825][814]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.05.20:068][880]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.20:068][880]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.20:372][897]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.20:372][897]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.05.20:723][918]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.20:723][918]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.21:016][935]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.21:016][935]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.21:300][951]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.21:300][951]LogEditorTransaction: Undo アクタをクリック（コンテキストメニュー）
+[2021.05.28-13.05.21:607][968]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.21:607][968]LogEditorTransaction: Undo コンポーネントをクリック
+[2021.05.28-13.05.21:883][984]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.21:883][984]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.22:197][  2]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.22:197][  2]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.05.22:481][ 19]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.22:481][ 19]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.22:755][ 34]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.22:755][ 34]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.23:078][ 53]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.23:078][ 53]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.05.23:361][ 70]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.23:361][ 70]LogEditorTransaction: Undo アクタをクリック
+[2021.05.28-13.05.23:676][ 87]Cmd: TRANSACTION UNDO
+[2021.05.28-13.05.23:676][ 87]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.05.27:744][330]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.05.27:752][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.05.27:752][330]PIE: New page: PIEセッション: myMap (2021/05/29 7:05:27)
+[2021.05.28-13.05.27:752][330]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.05.27:756][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003545s)
+[2021.05.28-13.05.27:757][330]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.05.27:757][330]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.05.28-13.05.27:757][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.005094s)
+[2021.05.28-13.05.27:772][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.05.28-13.05.27:775][330]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.05.27:775][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.05.27:775][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.05.27:776][330]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.05.27:776][330]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.05.27:778][330]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.05.27:778][330]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.05.27:797][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.05.27:797][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.05.27:812][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.05.27:812][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.05.27:812][330]LogInit: FAudioDevice initialized.
+[2021.05.28-13.05.27:812][330]LogAudio: Display: Audio Device (ID: 7) registered with world 'myMap'.
+[2021.05.28-13.05.27:820][330]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.05.27:821][330]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.05.27
+[2021.05.28-13.05.27:821][330]LogWorld: Bringing up level for play took: 0.000488
+[2021.05.28-13.05.27:821][330]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.28-13.05.27:824][330]PIE: サーバーにログインしました
+[2021.05.28-13.05.27:825][330]PIE: PIE合計開始時間 0.074 秒。
+[2021.05.28-13.05.53:218][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.05.53:218][845]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.05.53:219][845]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.05.53:219][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.05.53:225][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.05.53:241][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.05.53:254][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.05.53:254][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.05.53:255][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.05.53:274][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.05.28-13.05.53:304][846]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.28-13.06.03:827][468]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome needed to have new flag set bUsedWithSplineMeshes !
+[2021.05.28-13.06.03:829][468]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.05.28-13.06.03:874][468]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.05.28-13.12.44:569][ 33]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2021.05.28-13.12.45:984][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.12.47:018][176]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.13.28:021][634]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2021.05.28-13.13.28:713][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.13.41:747][455]Cmd: TRANSACTION UNDO
+[2021.05.28-13.13.41:747][455]LogEditorTransaction: Undo アクタ を移動
+[2021.05.28-13.13.43:338][550]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.13.50:871][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.13.55:908][302]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.13.58:145][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.13.58:917][480]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.14.38:135][832]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.28-13.14.39:991][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.05.28-13.14.44:811][230]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.15.42:457][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.15.50:125][145]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2021.05.28-13.15.51:670][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.15.57:353][577]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor3)
+[2021.05.28-13.16.02:234][869]LogEditorViewport: Clicking on Actor (LMB): zipLine_C (zipLine)
+[2021.05.28-13.16.11:764][439]Cmd: TRANSACTION UNDO
+[2021.05.28-13.16.11:764][439]LogEditorTransaction: Undo アクタ を回転
+[2021.05.28-13.16.27:636][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.16.40:701][170]LogEditorViewport: Clicking on Actor (context menu): spike_C (spike)
+[2021.05.28-13.16.59:106][273]Cmd: EDIT COPY
+[2021.05.28-13.16.59:587][273]Cmd: EDIT PASTE
+[2021.05.28-13.16.59:614][273]Cmd: EDIT PASTE
+[2021.05.28-13.16.59:742][280]Cmd: EDIT PASTE
+[2021.05.28-13.16.59:932][291]Cmd: EDIT PASTE
+[2021.05.28-13.17.00:140][303]Cmd: EDIT PASTE
+[2021.05.28-13.17.03:016][475]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike5)
+[2021.05.28-13.17.04:778][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.17.05:288][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.17.05:807][640]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike4)
+[2021.05.28-13.17.08:256][786]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike3)
+[2021.05.28-13.17.12:625][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.05.28-13.17.13:283][ 85]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike2)
+[2021.05.28-13.17.15:854][238]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike)
+[2021.05.28-13.17.19:385][449]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike6)
+[2021.05.28-13.17.22:402][629]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike4)
+[2021.05.28-13.17.26:786][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/QusetAssets/myMap" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-13.17.26:852][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.05.28-13.17.26:870][890]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap0DC83156444C42FC32398E96095693C2.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
+[2021.05.28-13.17.26:894][890]AssetCheck: New page: アセット保存:myMap
+[2021.05.28-13.17.26:894][890]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.17.27:446][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/QusetAssets/myMap" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-13.17.27:461][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.28-13.17.27:473][923]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap1EEAD80643166C145DED479F419A6706.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
+[2021.05.28-13.17.27:503][923]AssetCheck: New page: アセット保存:myMap
+[2021.05.28-13.17.27:503][923]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.17.27:922][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/QusetAssets/myMap" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-13.17.27:936][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.28-13.17.27:948][948]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap7760F7D845E1EBB7D35A7A883E8473E4.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
+[2021.05.28-13.17.27:968][948]AssetCheck: New page: アセット保存:myMap
+[2021.05.28-13.17.27:969][948]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.17.28:343][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/QusetAssets/myMap" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-13.17.28:357][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.28-13.17.28:369][970]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap23E09561410302C80FA3099827140055.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
+[2021.05.28-13.17.28:390][970]AssetCheck: New page: アセット保存:myMap
+[2021.05.28-13.17.28:390][970]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.17.28:577][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/QusetAssets/myMap" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.28-13.17.28:591][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.05.28-13.17.28:603][981]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap18874A6142D3F93B7A8BC48C9EC4664B.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/QusetAssets/myMap.umap'
+[2021.05.28-13.17.28:625][981]AssetCheck: New page: アセット保存:myMap
+[2021.05.28-13.17.28:625][981]LogContentValidation: Display: World /Game/Asset/QusetAssets/myMap.myMap を検証しています
+[2021.05.28-13.17.30:872][116]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.17.30:881][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.17.30:881][116]PIE: New page: PIEセッション: myMap (2021/05/29 7:17:30)
+[2021.05.28-13.17.30:881][116]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.17.30:885][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003421s)
+[2021.05.28-13.17.30:885][116]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.17.30:886][116]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.05.28-13.17.30:886][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.004593s)
+[2021.05.28-13.17.30:900][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.05.28-13.17.30:901][116]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.17.30:901][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.17.30:901][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.17.30:902][116]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.17.30:902][116]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.17.30:904][116]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.17.30:904][116]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.17.30:925][116]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.17.30:925][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.17.30:925][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.17.30:925][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.17.30:925][116]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.17.30:926][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.17.30:926][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.17.30:940][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.17.30:940][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.17.30:940][116]LogInit: FAudioDevice initialized.
+[2021.05.28-13.17.30:940][116]LogAudio: Display: Audio Device (ID: 8) registered with world 'myMap'.
+[2021.05.28-13.17.30:947][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.17.30:948][116]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.17.30
+[2021.05.28-13.17.30:949][116]LogWorld: Bringing up level for play took: 0.000905
+[2021.05.28-13.17.30:949][116]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.05.28-13.17.31:052][116]PIE: サーバーにログインしました
+[2021.05.28-13.17.31:053][116]PIE: PIE合計開始時間 0.173 秒。
+[2021.05.28-13.17.59:299][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.17.59:299][787]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.17.59:299][787]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.17.59:299][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.17.59:309][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.17.59:319][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.17.59:333][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.17.59:333][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.17.59:334][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.17.59:352][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.05.28-13.17.59:377][788]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.05.28-13.18.00:083][830]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike6)
+[2021.05.28-13.18.00:325][844]LogEditorViewport: Clicking on Actor (LMB): spike_C (spike6)
+[2021.05.28-13.18.04:879][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.05.28-13.18.05:719][116]LogSlate: Took 0.020538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.28-13.27.57:736][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.28-13.27.57:737][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Asset/QusetAssets/myMap' took 0.156
+[2021.05.28-13.27.57:751][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Chrome] ([1] browsable assets)...
+[2021.05.28-13.27.57:773][602]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome]
+[2021.05.28-13.27.57:773][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Chrome]
+[2021.05.28-13.27.57:781][602]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/M_Metal_Chrome_Auto1EDD615954CBF5EC19EFAC38E56A01724.tmp' to '../../../../practice/MyProject/SoulReaverClone/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Chrome_Auto1.uasset'
+[2021.05.28-13.27.57:781][602]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.05.28-13.43.46:044][705]LogSlate: Took 0.015192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.28-13.43.52:986][871]LogSlate: Window '変数の型を変更' being destroyed
+[2021.05.28-13.43.56:234][ 21]LogSlate: Window 'ブループリントを検索' being destroyed
+[2021.05.28-13.43.56:240][ 21]LogSlate: Window 'ブループリントを検索' being destroyed
+[2021.05.28-13.44.21:073][ 83]BlueprintLog: New page: ThirdPersonCharacter をコンパイル
+[2021.05.28-13.44.21:211][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.05.28-13.44.23:928][226]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/ThirdPersonCharacterE8115B314E173BF588E57087AE47B0A0.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.05.28-13.44.23:944][226]AssetCheck: New page: アセット保存:ThirdPersonCharacter
+[2021.05.28-13.44.23:944][226]LogContentValidation: Display: Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter を検証しています
+[2021.05.28-13.44.27:073][412]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.44.27:081][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.44.27:081][412]PIE: New page: PIEセッション: myMap (2021/05/29 7:44:27)
+[2021.05.28-13.44.27:081][412]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.44.27:086][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004782s)
+[2021.05.28-13.44.27:087][412]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.44.27:087][412]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2021.05.28-13.44.27:087][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.006107s)
+[2021.05.28-13.44.27:106][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.05.28-13.44.27:107][412]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.28-13.44.27:107][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.44.27:107][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.44.27:108][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.44.27:108][412]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.44.27:108][412]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.44.27:110][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.44.27:110][412]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.44.27:134][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.44.27:134][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.44.27:149][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.44.27:149][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.44.27:149][412]LogInit: FAudioDevice initialized.
+[2021.05.28-13.44.27:149][412]LogAudio: Display: Audio Device (ID: 9) registered with world 'myMap'.
+[2021.05.28-13.44.27:158][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.44.27:160][412]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.44.27
+[2021.05.28-13.44.27:160][412]LogWorld: Bringing up level for play took: 0.000849
+[2021.05.28-13.44.27:160][412]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.05.28-13.44.27:163][412]PIE: サーバーにログインしました
+[2021.05.28-13.44.27:164][412]PIE: PIE合計開始時間 0.084 秒。
+[2021.05.28-13.44.36:969][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.44.36:969][972]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.44.36:969][972]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.44.36:969][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.44.36:976][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.44.36:984][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.44.37:000][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.44.37:000][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.44.37:001][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.44.37:017][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.44.37:020][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.05.28-13.44.37:047][973]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.28-13.44.41:658][232]MapCheck: New page: マップをチェック
+[2021.05.28-13.44.41:754][232]LightingResults: New page: ライティングのビルド - 2021/05/29 7:44:41
+[2021.05.28-13.44.42:096][232]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.28-13.44.42:476][232]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.28-13.44.42:491][232]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.28-13.44.43:514][232]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.28-13.44.43:514][232]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15524
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.28-13.44.50:020][232]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.28-13.44.50:163][232]LogEditorBuildUtils: Build time 0:08
+[2021.05.28-13.44.50:521][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.05.28-13.44.52:762][328]Job is a success!
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.050s
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:          1: 7.2% covering 25.0% of volume
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:          2: 92.3% covering 5.0% of volume
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.28-13.44.52:992][329]LogVolumetricLightmapImport:          myMap 			 221 bricks 	 100.0% (Persistent Level)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:HQ_Lightmap1_1 (AutoDXT、512X512)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:HQ_Lightmap1_2 (AutoDXT、64X64)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:LQ_Lightmap_1_1 (DXT1、512X512)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:LQ_Lightmap_1_2 (DXT1、64X64)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:ShadowMapTexture2D_3 (G8、32X32)
+[2021.05.28-13.44.53:135][329]LogTexture: Display: テクスチャをビルドしています:ShadowMapTexture2D_2 (G8、512X128)
+[2021.05.28-13.44.53:142][329]Lightmass on MYCOMPUTER: 1.83 sec total, 215 ms importing, 31 ms setup, 508 ms photons, 1.05 sec processing, 0 ms extra exporting [4/4 mappings]. Threads: 11.6 sec total, 554 ms processing.
+[2021.05.28-13.44.53:149][329]LogStaticLightingSystem: myMap_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2021.05.28-13.44.53:175][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.05.28-13.44.53:218][329]LogStaticLightingSystem: Illumination: 11.3 sec (78 ms encoding lightmaps, 21 ms encoding shadowmaps)
+[2021.05.28-13.44.53:219][329]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.05.28-13.44.53:219][329]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.28-13.44.54:014][329]DumpUnbuiltLightIteractions
+[2021.05.28-13.44.54:014][329]Lights with unbuilt interactions: 0
+[2021.05.28-13.44.54:014][329]
+[2021.05.28-13.44.54:014][329]Primitives with unbuilt interactions: 0
+[2021.05.28-13.44.54:072][329]LogTexture: Display: テクスチャをビルドしています:NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8、128X128)
+[2021.05.28-13.44.54:119][330]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.28-13.44.54:119][330]MapCheck: New page: myMap - 2021/05/29 7:44:54
+[2021.05.28-13.44.54:303][330]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 184.433ミリ秒かかりました。
+[2021.05.28-13.44.57:772][537]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.44.57:779][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.44.57:779][537]PIE: New page: PIEセッション: myMap (2021/05/29 7:44:57)
+[2021.05.28-13.44.57:779][537]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.44.57:784][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004952s)
+[2021.05.28-13.44.57:785][537]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.44.57:785][537]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.05.28-13.44.57:785][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.006195s)
+[2021.05.28-13.44.57:803][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.05.28-13.44.57:804][537]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.44.57:804][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.44.57:804][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.44.57:805][537]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.44.57:805][537]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.44.57:807][537]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.44.57:807][537]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.44.57:827][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.44.57:827][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.44.57:842][537]LogInit: FAudioDevice initialized.
+[2021.05.28-13.44.57:842][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.44.57:842][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.44.57:842][537]LogAudio: Display: Audio Device (ID: 10) registered with world 'myMap'.
+[2021.05.28-13.44.57:852][537]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.44.57:854][537]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.44.57
+[2021.05.28-13.44.57:854][537]LogWorld: Bringing up level for play took: 0.000901
+[2021.05.28-13.44.57:854][537]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.05.28-13.44.57:857][537]PIE: サーバーにログインしました
+[2021.05.28-13.44.57:858][537]PIE: PIE合計開始時間 0.08 秒。
+[2021.05.28-13.45.09:729][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.45.09:729][246]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.45.09:729][246]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.45.09:729][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.45.09:738][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.45.09:749][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.45.09:764][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.28-13.45.09:764][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.45.09:765][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.45.09:781][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.45.09:783][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.28-13.45.09:806][247]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.05.28-13.45.13:094][443]LogTemp: Repeating last play command: 選択ビューポート
+[2021.05.28-13.45.13:100][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.28-13.45.13:100][443]PIE: New page: PIEセッション: myMap (2021/05/29 7:45:13)
+[2021.05.28-13.45.13:100][443]LogPlayLevel: Creating play world package: /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.45.13:103][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
+[2021.05.28-13.45.13:104][443]LogAIModule: Creating AISystem for world myMap
+[2021.05.28-13.45.13:104][443]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.05.28-13.45.13:104][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/QusetAssets/myMap.myMap to /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap (0.004029s)
+[2021.05.28-13.45.13:123][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.28-13.45.13:124][443]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.28-13.45.13:124][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.28-13.45.13:124][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.28-13.45.13:125][443]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.28-13.45.13:125][443]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.28-13.45.13:127][443]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.28-13.45.13:127][443]LogAudioMixer: Display: 1: FrontRight
+[2021.05.28-13.45.13:146][443]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2021.05.28-13.45.13:148][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.28-13.45.13:148][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.28-13.45.13:148][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.28-13.45.13:148][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.28-13.45.13:148][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.28-13.45.13:148][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.28-13.45.13:162][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.28-13.45.13:162][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.28-13.45.13:162][443]LogInit: FAudioDevice initialized.
+[2021.05.28-13.45.13:162][443]LogAudio: Display: Audio Device (ID: 11) registered with world 'myMap'.
+[2021.05.28-13.45.13:171][443]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.05.28-13.45.13:173][443]LogWorld: Bringing World /Game/Asset/QusetAssets/UEDPIE_0_myMap.myMap up for play (max tick rate 60) at 2021.05.28-22.45.13
+[2021.05.28-13.45.13:173][443]LogWorld: Bringing up level for play took: 0.000845
+[2021.05.28-13.45.13:173][443]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.05.28-13.45.13:176][443]PIE: サーバーにログインしました
+[2021.05.28-13.45.13:176][443]PIE: PIE合計開始時間 0.078 秒。
+[2021.05.28-13.46.00:228][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.46.00:229][246]LogWorld: BeginTearingDown for /Game/Asset/QusetAssets/UEDPIE_0_myMap
+[2021.05.28-13.46.00:229][246]LogWorld: UWorld::CleanupWorld for myMap, bSessionEnded=true, bCleanupResources=true
+[2021.05.28-13.46.00:229][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.46.00:236][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.28-13.46.00:247][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.28-13.46.00:264][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.28-13.46.00:264][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.46.00:265][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.28-13.46.00:284][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.05.28-13.46.00:309][247]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.05.28-13.46.47:272][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.05.28-13.46.47:284][462]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/myMap_Auto22CA83956418D544935410387CEC643D6.tmp' to '../../../../practice/MyProject/SoulReaverClone/Saved/Autosaves/Game/Asset/QusetAssets/myMap_Auto2.umap'
+[2021.05.28-13.46.47:284][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Asset/QusetAssets/myMap' took 0.030
+[2021.05.28-13.46.47:285][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
