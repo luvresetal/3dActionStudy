@@ -1159,3 +1159,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.28-13.17.35:568][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.06.28-13.17.35:585][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2021.06.28-13.17.35:603][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.28-13.21.10:892][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.28-13.21.10:916][283]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/ThirdPersonExampleMap_Auto85141DE59493C87D28F7BD3931F68EE6C.tmp' to '../../../../practice/MyProject/SoulReaverClone/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.06.28-13.21.11:271][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.417
+[2021.06.28-13.21.11:271][283]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.417
+[2021.06.28-13.21.11:272][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/EnemyAssets/EnemyCharacter_2] ([2] browsable assets)...
+[2021.06.28-13.21.11:299][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/EnemyAssets/EnemyCharacter_2.EnemyCharacter_2]
+[2021.06.28-13.21.11:316][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Asset/EnemyAssets/EnemyCharacter_2.EnemyCharacter_2]
+[2021.06.28-13.21.11:316][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/EnemyAssets/EnemyCharacter_2]
+[2021.06.28-13.21.11:372][283]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/EnemyCharacter_2_Auto8B7FB97FE49676B710617BE96D1FC2848.tmp' to '../../../../practice/MyProject/SoulReaverClone/Saved/Autosaves/Game/Asset/EnemyAssets/EnemyCharacter_2_Auto8.uasset'
+[2021.06.28-13.21.11:373][283]LogFileHelpers: Auto-saving content packages took 0.101
+[2021.06.28-13.21.53:375][961]LogSlate: Window '親クラスを選択' being destroyed
+[2021.06.28-13.21.53:396][961]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.06.28-13.21.53:574][961]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.06.28-13.22.10:819][992]LogContentBrowser: Attempting asset rename: NewBlueprint -> Soul
+[2021.06.28-13.22.10:929][992]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Asset/EnemyAssets/Soul.
+[2021.06.28-13.22.10:960][992]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.06.28-13.22.13:056][116]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Asset/EnemyAssets/Soul.Soul
+[2021.06.28-13.22.23:778][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/EnemyAssets/EnemyCharacter_2" FILE="../../../../practice/MyProject/SoulReaverClone/Content/Asset/EnemyAssets/EnemyCharacter_2.uasset" SILENT=true
+[2021.06.28-13.22.23:813][740]LogSavePackage: Moving '../../../../practice/MyProject/SoulReaverClone/Saved/EnemyCharacter_2C4F97A1344EFF5B106A6B3A54023DC66.tmp' to '../../../../practice/MyProject/SoulReaverClone/Content/Asset/EnemyAssets/EnemyCharacter_2.uasset'
+[2021.06.28-13.22.23:825][740]AssetCheck: New page: アセット保存:EnemyCharacter_2
+[2021.06.28-13.22.23:825][740]LogContentValidation: Display: Blueprint /Game/Asset/EnemyAssets/EnemyCharacter_2.EnemyCharacter_2 を検証しています
