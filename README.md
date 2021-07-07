@@ -7,6 +7,7 @@ Eidos Interactive社の「Legacy of Kain: Soul Reaver」を再現することを
 
 ファイル構成
 自分が制作したデータはほとんどContent/Asset/に入れてあります。（それ以外はサードパーソンテンプレートのデータです。）
+
 Asset/EnemyAsset　　：敵キャラのデータ(現在整理中)
      /PlayerAsset　 ：プレイヤーキャラのデータ
      /QuestAsset　　：UNREAL FEST EXTREME’21にて行われたアンリアルクエストで作ったデータ
