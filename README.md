@@ -2,8 +2,8 @@
 
 UnrealEngine4 個人学習データ置き場
 
-ここにはUnrealEngine4の個人学習のために制作している3Dアクションゲームのデータを置いています。
-Eidos Interactive社の「Legacy of Kain: Soul Reaver」を再現することを目標としています。
+ここにはUnrealEngine4の個人学習のために制作している3Dアクションゲームのデータを置いています。  
+Eidos Interactive社の「Legacy of Kain: Soul Reaver」を再現することを目標としています。  
 
 ファイル構成  
 自分が制作したデータはほとんどContent/Asset/に入れてあります。  
