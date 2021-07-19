@@ -19,9 +19,12 @@ https://docs.unrealengine.com/4.26/ja/AnimatingObjects/SkeletalMeshAnimation/Per
 これで動いたのだけれど、アニメーションの位置がおかしい。  
 ![crouch1](https://user-images.githubusercontent.com/10493658/126182034-8c074f73-5f3b-41d7-bedb-12f740811564.png)
 リターゲットのときに位置がおかしくなってしまっているっぽい。  
+あれこれ調べていじってたらできた。スケルトンのボーンのリターゲット設定を変えてやればいけるっぽい。  
+https://docs.unrealengine.com/4.26/ja/AnimatingObjects/SkeletalMeshAnimation/AnimationRetargeting/  
+これもぱっと見で設定表示が出てきてないので混乱したなぁ…。  
   
 7月16日    
-プレイヤーの動きに関してマーケットプレイスを探したらいいのが見つかったので使ってみようとする。  
+プレイヤーの動きに関してマーケットプレイスを探したらいいのが見つかったので使ってみようとする。   　
 https://www.unrealengine.com/marketplace/ja/item/7001dd4a4fd04aaaaf189801c5ce7ee6  
 ・・・が、今まで使ってたマネキンにスターターパックのアニメーションが使えない。  
 調べてみると「リターゲット」という作業が必要とのこと。  
