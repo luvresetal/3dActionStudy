@@ -12,6 +12,7 @@ Facebookの自分のページに書いていたもののまとめてます。
 公式ドキュメントの画面と違う！しかも一番重要なウインドウ！  
 https://docs.unrealengine.com/4.26/ja/AnimatingObjects/SkeletalMeshAnimation/Persona/Modes/Animation/  
 で、公式ドキュメントで説明されてるシーケンスエディタってどうすればでてくるの？
+公式ドキュメントはバージョン4.16とあるけど、自分が使ってるバージョン4.26では変わったとか！？  
 
 7月19日  
 まずはしゃがみモーションを組み込んでみる。  
