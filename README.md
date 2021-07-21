@@ -9,7 +9,7 @@ Eidos Interactive社の「Legacy of Kain: Soul Reaver」を再現することを
 PCキーボード  
 十字キー：プレイヤーの移動  
 A       ：通常攻撃  
-スペース：ジャンプ  
+スペース：（地上）ジャンプ （空中）滑空  
 F       ：トドメ攻撃  
 D       ：魂の吸収  
 C       ：しゃがむ  
@@ -32,7 +32,7 @@ QuestAsset    ：UNREAL FEST EXTREME’21にて行われたアンリアルクエ
                 (1日目の初級、中級のみ。プロジェクトにはあまり関係ないのでそのうち消すかも)    
 UI_System     ：UIやシステムに関するデータ  
   
-  
+README.md     ：説明書（このファイル）  
   
   
   
