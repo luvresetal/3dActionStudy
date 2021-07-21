@@ -15,6 +15,7 @@ Facebookの自分のページに書いていたもののまとめてます。
 歩きとしゃがみ移動できた！  
 https://docs.unrealengine.com/4.26/ja/AnimatingObjects/SkeletalMeshAnimation/Blendspaces/Editor/  
 ブレンドスペースを使ったらめっちゃ簡単にできた！  
+プログラムで速度を調整することで止まり、歩き、走りの切り替えができるアニメーションが簡単に！  
   
 7月20日  
 しゃがみハイジャンプができたので、滑空を作ろうと思う。  
