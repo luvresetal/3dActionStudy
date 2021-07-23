@@ -11,6 +11,13 @@ Facebookの自分のページに書いていたもののまとめてます。
 https://docs.unrealengine.com/4.26/ja/InteractiveExperiences/Tracing/HowTo/SingleLineTraceByChannel/  
 ↑を参考に、SphereTraceByChannelをつかってみたら、床しか検知しない。敵どころか壁とか障害物とかも検知しない。  
 んで、今度はSphereTraceByObjectでやってみると、ObjectTypesという配列がないとコンパイルが通らない。  
+https://shuntaendo.hatenablog.com/entry/2016/03/04/004331  
+ObjectTypesというのはpawnとかactorとかオブジェクトの種類をノードに指定したいときに使うものみたい。  
+トレースしたいオブジェクトを指定したいというのは当然だなって。  
+で、指定したいのが2種類以上あるっていうもの。  
+SphereTraceByObjectに渡すのはObjectTypesの配列。  
+そういえば、UnrealEngineで配列の扱い方って？？？だなぁ。  
+
   
 7月21日  
 とりあえず、動きなしでポーズだけのアニメーションシーケンスを作ることができた。  
