@@ -17,6 +17,10 @@ ObjectTypesというのはpawnとかactorとかオブジェクトの種類をノ
 で、指定したいのが2種類以上あるっていうもの。  
 SphereTraceByObjectに渡すのはObjectTypesの配列。  
 そういえば、UnrealEngineで配列の扱い方って？？？だなぁ。  
+https://docs.unrealengine.com/4.26/ja/ProgrammingAndScripting/Blueprints/BP_HowTo/WorkingWithArrays/  
+公式ドキュメントに説明があったので書いとく。  
+今回は一度宣言したらいじらないのでまずはいいとして、いじる時がなぁ。。。  
+ブループリントでループ文とか使うのはとっつきづらそう(コード書くのとはやり方がガラッと変わりそう)・・・  
 
   
 7月21日  
