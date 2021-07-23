@@ -8,7 +8,8 @@ Facebookの自分のページに書いていたもののまとめてます。
 7月23日  
 戦闘時に敵をロックオンできるようにする。  
 まず、トレースで敵を検知することから。  
-SphereTraceで検知しようとしてるのだけど、床しか検知しない。敵どころか壁とか障害物とかも検知しない。  
+https://docs.unrealengine.com/4.26/ja/InteractiveExperiences/Tracing/HowTo/SingleLineTraceByChannel/  
+↑を参考に、SphereTraceで検知しようとしてるのだけど、床しか検知しない。敵どころか壁とか障害物とかも検知しない。  
   
 7月21日  
 とりあえず、動きなしでポーズだけのアニメーションシーケンスを作ることができた。  
