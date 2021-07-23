@@ -14,7 +14,7 @@ https://docs.unrealengine.com/4.26/ja/InteractiveExperiences/Tracing/HowTo/Singl
 7月21日  
 とりあえず、動きなしでポーズだけのアニメーションシーケンスを作ることができた。  
 ボーンの角度とかを変えてポーズを作り、「アセットを作成」で出力してあげれば作れた。  
-![Glide](https://umser-images.githubusercontent.com/10493658/126437460-eea5d1cb-2710-429d-9020-23979b359ca6.PNG)  
+(https://umser-images.githubusercontent.com/10493658/126437460-eea5d1cb-2710-429d-9020-23979b359ca6.PNG)  
 ただ、1度出力したアセットを修正する方法が分かってないので微調整すると新規でアセットができてしまう。  
 ポーズ作りは割と簡単だったりするので、欲が出て調整したくなってきたときにどんどんアセットが作られてしまうのはなぁ。  
 このあとは、歩きとしゃがみ移動を作っていく予定・・・。  
