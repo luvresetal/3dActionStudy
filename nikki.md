@@ -15,7 +15,11 @@
 つかってみたら変に飛び跳ねてしまうだけだったのでLaunch Charactorノードについて調べてみたら、キャラクタをロケットみたいに打ち上げるものらしい。  
 https://teratail.com/questions/278030  
 (Epicの公式ドキュメントには日本語のものがなかった…。まぁ、翻訳ツール使って読みますが。)  
-サイドステップ的な回避アクションには向いてない気がするのでLaunch Charactorは使わないことにする。  
+サイドステップ的な回避アクションには向いてない気がするのでLaunch Charactorは使わないことにする。 
+  
+https://answers.unrealengine.com/questions/847959/i-want-to-move-players-fast-for-short-distance.html
+回避ステップで参考になりそうなリンク  
+
 
 7月31日  
 昨日は本探しながら掃除する。おかげでお部屋すっきり。  
