@@ -4,6 +4,10 @@
 情けないことしか書いてないです。     
 あくまで個人用に。今後の勉強に役立てるために書いてます。  
   
+9月22日  
+メモだけでも。  
+https://qiita.com/unknown_ds/items/619478c5074136365305  
+  
 9月7日  
 仕事でものすごく疲れて寝床でゴロゴロしてたらやる気出たのでちょっとやる。  
 ![setSword](https://user-images.githubusercontent.com/10493658/132368329-c16f5b93-c185-4124-be33-cf4420bbea8d.PNG)  
