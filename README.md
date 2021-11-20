@@ -32,7 +32,8 @@ QuestAsset    ：UNREAL FEST EXTREME’21にて行われたアンリアルクエ
                 (1日目の初級、中級のみ。プロジェクトにはあまり関係ないのでそのうち消すかも)    
 UI_System     ：UIやシステムに関するデータ  
   
-README.md     ：説明書（このファイル）  
+README.md     ：説明書（このファイル）   
+  
   
   
   
@@ -40,3 +41,5 @@ README.md     ：説明書（このファイル）
   
   
 nikki.md       :日記
+  
+製作者Twitter:@luvresetal
